@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-26T15:11:08.635Z",
+  "updatedAt": "2026-09-26T15:12:14.575Z",
   "problems": [
     {
       "frontendId": "547",
@@ -62,7 +62,7 @@
           "filename": "1377-frog-position-after-t-seconds.cpp",
           "path": "1377-frog-position-after-t-seconds/1377-frog-position-after-t-seconds.cpp",
           "sha": "2b4e801076e0d2519c460e8c767ab1c07dd09aa9",
-          "lastSyncedAt": "2026-09-26T14:27:21.893Z"
+          "lastSyncedAt": "2026-09-26T15:12:14.575Z"
         }
       ]
     },
