@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:59:01.335Z",
+  "updatedAt": "2026-09-26T14:59:04.138Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1662,7 +1662,7 @@
           "filename": "0867-transpose-matrix.cpp",
           "path": "0867-transpose-matrix/0867-transpose-matrix.cpp",
           "sha": "9420126c7faa35af11f7f2a693a02da06383da8b",
-          "lastSyncedAt": "2026-09-26T14:10:42.550Z"
+          "lastSyncedAt": "2026-09-26T14:59:04.138Z"
         }
       ]
     },
