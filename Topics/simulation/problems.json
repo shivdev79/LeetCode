@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-26T15:07:24.770Z",
+  "updatedAt": "2026-09-26T15:13:09.462Z",
   "problems": [
     {
       "frontendId": "54",
@@ -142,7 +142,7 @@
           "filename": "2257-count-unguarded-cells-in-the-grid.cpp",
           "path": "2257-count-unguarded-cells-in-the-grid/2257-count-unguarded-cells-in-the-grid.cpp",
           "sha": "b8513e90fc7dfec251b7d72d532d1ed07b2c1280",
-          "lastSyncedAt": "2026-09-26T14:28:30.746Z"
+          "lastSyncedAt": "2026-09-26T15:13:09.462Z"
         }
       ]
     },
