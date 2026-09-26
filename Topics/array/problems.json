@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:20:12.062Z",
+  "updatedAt": "2026-09-26T15:20:18.424Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1802,7 +1802,7 @@
           "filename": "1007-minimum-domino-rotations-for-equal-row.cpp",
           "path": "1007-minimum-domino-rotations-for-equal-row/1007-minimum-domino-rotations-for-equal-row.cpp",
           "sha": "7e2a2b35772c1940bed7ee01300af5e4ab21199a",
-          "lastSyncedAt": "2026-09-26T14:38:36.348Z"
+          "lastSyncedAt": "2026-09-26T15:20:18.424Z"
         }
       ]
     },
