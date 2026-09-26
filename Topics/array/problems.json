@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:11:53.687Z",
+  "updatedAt": "2026-09-26T15:12:22.416Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2362,7 +2362,7 @@
           "filename": "2115-find-all-possible-recipes-from-given-supplies.cpp",
           "path": "2115-find-all-possible-recipes-from-given-supplies/2115-find-all-possible-recipes-from-given-supplies.cpp",
           "sha": "72bc579e3632b38f41a3e7a8dfd5e326568e603f",
-          "lastSyncedAt": "2026-09-26T14:27:31.640Z"
+          "lastSyncedAt": "2026-09-26T15:12:22.416Z"
         }
       ]
     },
