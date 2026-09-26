@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:48:05.012Z",
+  "updatedAt": "2026-09-26T14:48:14.745Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1883,6 +1883,26 @@
           "path": "1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.cpp",
           "sha": "a460f0a8c297572757ca035f4c0e75adb8eb8be7",
           "lastSyncedAt": "2026-09-26T14:38:11.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1207",
+      "title": "Unique Number of Occurrences",
+      "slug": "unique-number-of-occurrences",
+      "problemName": "1207-unique-number-of-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-number-of-occurrences/",
+      "folderPath": "1207-unique-number-of-occurrences/",
+      "readmePath": "1207-unique-number-of-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1207-unique-number-of-occurrences.cpp",
+          "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.cpp",
+          "sha": "324dc3a6dcfe9956f8df23ae8bdfefab8d0ef7fe",
+          "lastSyncedAt": "2026-09-26T14:48:14.745Z"
         }
       ]
     },
