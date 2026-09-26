@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-26T14:23:16.857Z",
+  "updatedAt": "2026-09-26T14:23:23.305Z",
   "problems": [
     {
       "frontendId": "98",
@@ -383,6 +383,26 @@
           "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.cpp",
           "sha": "4027622e5e3e4ab81354db3650e9b5d929904684",
           "lastSyncedAt": "2026-09-26T14:19:51.708Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "965",
+      "title": "Univalued Binary Tree",
+      "slug": "univalued-binary-tree",
+      "problemName": "0965-univalued-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/univalued-binary-tree/",
+      "folderPath": "0965-univalued-binary-tree/",
+      "readmePath": "0965-univalued-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0965-univalued-binary-tree.cpp",
+          "path": "0965-univalued-binary-tree/0965-univalued-binary-tree.cpp",
+          "sha": "43803cf1ec1c4f7f94b10ebe8bd03e55a801ad4d",
+          "lastSyncedAt": "2026-09-26T14:23:23.305Z"
         }
       ]
     },
