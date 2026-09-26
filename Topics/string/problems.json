@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T14:47:35.815Z",
+  "updatedAt": "2026-09-26T14:47:46.442Z",
   "problems": [
     {
       "frontendId": "3",
@@ -763,6 +763,26 @@
           "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.cpp",
           "sha": "c3a935805e9a1a00184d43dcde94fb4ed9ad5438",
           "lastSyncedAt": "2026-09-26T14:34:15.585Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2375",
+      "title": "Construct Smallest Number From DI String",
+      "slug": "construct-smallest-number-from-di-string",
+      "problemName": "2375-construct-smallest-number-from-di-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-smallest-number-from-di-string/",
+      "folderPath": "2375-construct-smallest-number-from-di-string/",
+      "readmePath": "2375-construct-smallest-number-from-di-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2375-construct-smallest-number-from-di-string.cpp",
+          "path": "2375-construct-smallest-number-from-di-string/2375-construct-smallest-number-from-di-string.cpp",
+          "sha": "33b60fc8d7afa227767f0253e0789338ab7d415a",
+          "lastSyncedAt": "2026-09-26T14:47:46.442Z"
         }
       ]
     },
