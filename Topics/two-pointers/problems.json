@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-26T14:10:02.197Z",
+  "updatedAt": "2026-09-26T14:11:16.832Z",
   "problems": [
     {
       "frontendId": "11",
@@ -183,6 +183,26 @@
           "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
           "sha": "2cea55eb0c5c57d59835112e96237a79f3858c8f",
           "lastSyncedAt": "2026-09-26T14:10:02.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3940",
+      "title": "Limit Occurrences in Sorted Array",
+      "slug": "limit-occurrences-in-sorted-array",
+      "problemName": "3940-limit-occurrences-in-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
+      "folderPath": "3940-limit-occurrences-in-sorted-array/",
+      "readmePath": "3940-limit-occurrences-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3940-limit-occurrences-in-sorted-array.cpp",
+          "path": "3940-limit-occurrences-in-sorted-array/3940-limit-occurrences-in-sorted-array.cpp",
+          "sha": "1390e3e2b94f9b816c7592e5c5c2d519513f944a",
+          "lastSyncedAt": "2026-09-26T14:11:16.832Z"
         }
       ]
     }
