@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:30:15.101Z",
+  "updatedAt": "2026-09-26T14:31:37.176Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1463,6 +1463,26 @@
           "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.cpp",
           "sha": "b94f09dd8d93ff1b41c3c3a10abff5359b206841",
           "lastSyncedAt": "2026-09-26T14:12:01.447Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3158",
+      "title": "Find the XOR of Numbers Which Appear Twice",
+      "slug": "find-the-xor-of-numbers-which-appear-twice",
+      "problemName": "3158-find-the-xor-of-numbers-which-appear-twice",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/",
+      "folderPath": "3158-find-the-xor-of-numbers-which-appear-twice/",
+      "readmePath": "3158-find-the-xor-of-numbers-which-appear-twice/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3158-find-the-xor-of-numbers-which-appear-twice.cpp",
+          "path": "3158-find-the-xor-of-numbers-which-appear-twice/3158-find-the-xor-of-numbers-which-appear-twice.cpp",
+          "sha": "6f8ecc8f46de9859ae195153cd1f538c097594c6",
+          "lastSyncedAt": "2026-09-26T14:31:37.176Z"
         }
       ]
     },
