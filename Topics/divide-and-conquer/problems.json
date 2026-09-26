@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-26T14:18:14.131Z",
+  "updatedAt": "2026-09-26T14:18:52.699Z",
   "problems": [
     {
       "frontendId": "53",
@@ -63,6 +63,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.cpp",
           "sha": "84ab88e606697001a2351b0143b416e850a26041",
           "lastSyncedAt": "2026-09-26T14:06:11.982Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "108",
+      "title": "Convert Sorted Array to Binary Search Tree",
+      "slug": "convert-sorted-array-to-binary-search-tree",
+      "problemName": "0108-convert-sorted-array-to-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+      "folderPath": "0108-convert-sorted-array-to-binary-search-tree/",
+      "readmePath": "0108-convert-sorted-array-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0108-convert-sorted-array-to-binary-search-tree.cpp",
+          "path": "0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.cpp",
+          "sha": "dac3176307ea337e9f8d0246299ff62069e8abb4",
+          "lastSyncedAt": "2026-09-26T14:18:52.699Z"
         }
       ]
     },
