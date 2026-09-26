@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-26T15:15:43.351Z",
+  "updatedAt": "2026-09-26T15:15:53.167Z",
   "problems": [
     {
       "frontendId": "17",
@@ -222,7 +222,7 @@
           "filename": "0131-palindrome-partitioning.cpp",
           "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.cpp",
           "sha": "fe04e71d3fbe19dd0363eb918fd9f632e55e811d",
-          "lastSyncedAt": "2026-09-26T14:32:23.133Z"
+          "lastSyncedAt": "2026-09-26T15:15:53.167Z"
         }
       ]
     },
