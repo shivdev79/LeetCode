@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T15:17:35.437Z",
+  "updatedAt": "2026-09-26T15:17:41.337Z",
   "problems": [
     {
       "frontendId": "3",
@@ -662,7 +662,7 @@
           "filename": "1832-check-if-the-sentence-is-pangram.cpp",
           "path": "1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.cpp",
           "sha": "19137b847207dcf96b556a057aa473bf9ab530d5",
-          "lastSyncedAt": "2026-09-26T14:34:57.842Z"
+          "lastSyncedAt": "2026-09-26T15:17:41.337Z"
         }
       ]
     },
