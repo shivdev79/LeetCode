@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:22:07.240Z",
+  "updatedAt": "2026-09-26T14:24:54.560Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1043,6 +1043,26 @@
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
           "sha": "b99b3769251aad225045a6ff8fc628a87df690e3",
           "lastSyncedAt": "2026-09-26T14:10:23.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "problemName": "1877-minimize-maximum-pair-sum-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+      "folderPath": "1877-minimize-maximum-pair-sum-in-array/",
+      "readmePath": "1877-minimize-maximum-pair-sum-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1877-minimize-maximum-pair-sum-in-array.cpp",
+          "path": "1877-minimize-maximum-pair-sum-in-array/1877-minimize-maximum-pair-sum-in-array.cpp",
+          "sha": "9a378fdacebe166cc52a5dce9e9977c537186bb9",
+          "lastSyncedAt": "2026-09-26T14:24:54.560Z"
         }
       ]
     },
