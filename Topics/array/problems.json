@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:38:36.348Z",
+  "updatedAt": "2026-09-26T14:38:43.829Z",
   "problems": [
     {
       "frontendId": "4",
@@ -63,6 +63,26 @@
           "path": "0016-3sum-closest/0016-3sum-closest.cpp",
           "sha": "5ec6b2d37a68ec3535fb406cb3bacefd33d3e322",
           "lastSyncedAt": "2026-09-26T14:37:33.166Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "0027-remove-element/",
+      "readmePath": "0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0027-remove-element.cpp",
+          "path": "0027-remove-element/0027-remove-element.cpp",
+          "sha": "bd3708d13e57aca76f76db57ea10d6a8e7e45fcf",
+          "lastSyncedAt": "2026-09-26T14:38:43.829Z"
         }
       ]
     },
