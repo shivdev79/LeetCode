@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-26T15:01:28.653Z",
+  "updatedAt": "2026-09-26T15:17:11.338Z",
   "problems": [
     {
       "frontendId": "169",
@@ -202,7 +202,7 @@
           "filename": "2351-first-letter-to-appear-twice.cpp",
           "path": "2351-first-letter-to-appear-twice/2351-first-letter-to-appear-twice.cpp",
           "sha": "c3a935805e9a1a00184d43dcde94fb4ed9ad5438",
-          "lastSyncedAt": "2026-09-26T14:34:15.585Z"
+          "lastSyncedAt": "2026-09-26T15:17:11.338Z"
         }
       ]
     },
