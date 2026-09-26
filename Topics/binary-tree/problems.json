@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-26T15:09:05.288Z",
+  "updatedAt": "2026-09-26T15:09:12.073Z",
   "problems": [
     {
       "frontendId": "94",
@@ -662,7 +662,7 @@
           "filename": "0671-second-minimum-node-in-a-binary-tree.cpp",
           "path": "0671-second-minimum-node-in-a-binary-tree/0671-second-minimum-node-in-a-binary-tree.cpp",
           "sha": "5b564fd4a1be8b9b1e21199e2edb303141fdd9f9",
-          "lastSyncedAt": "2026-09-26T14:23:33.600Z"
+          "lastSyncedAt": "2026-09-26T15:09:12.073Z"
         }
       ]
     },
