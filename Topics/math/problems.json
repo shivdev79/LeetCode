@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-26T15:14:59.245Z",
+  "updatedAt": "2026-09-26T15:15:05.292Z",
   "problems": [
     {
       "frontendId": "2",
@@ -602,7 +602,7 @@
           "filename": "2520-count-the-digits-that-divide-a-number.cpp",
           "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.cpp",
           "sha": "9a5a1deacf6dccfb34412905349aaa77676d4c5b",
-          "lastSyncedAt": "2026-09-26T14:31:14.586Z"
+          "lastSyncedAt": "2026-09-26T15:15:05.292Z"
         }
       ]
     },
