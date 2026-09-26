@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:46:07.984Z",
+  "updatedAt": "2026-09-26T14:46:14.898Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,6 +163,26 @@
           "path": "0027-remove-element/0027-remove-element.cpp",
           "sha": "bd3708d13e57aca76f76db57ea10d6a8e7e45fcf",
           "lastSyncedAt": "2026-09-26T14:38:43.829Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "problemName": "0031-next-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-permutation/",
+      "folderPath": "0031-next-permutation/",
+      "readmePath": "0031-next-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0031-next-permutation.cpp",
+          "path": "0031-next-permutation/0031-next-permutation.cpp",
+          "sha": "2a9ac3362e899181a18a0cb5d967234e5169f1d7",
+          "lastSyncedAt": "2026-09-26T14:46:14.898Z"
         }
       ]
     },
