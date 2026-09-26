@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-26T15:08:19.178Z",
+  "updatedAt": "2026-09-26T15:08:25.978Z",
   "problems": [
     {
       "frontendId": "94",
@@ -882,7 +882,7 @@
           "filename": "1161-maximum-level-sum-of-a-binary-tree.cpp",
           "path": "1161-maximum-level-sum-of-a-binary-tree/1161-maximum-level-sum-of-a-binary-tree.cpp",
           "sha": "05ca918b134a290139a558c25d8a7622a1422ba2",
-          "lastSyncedAt": "2026-09-26T14:22:32.633Z"
+          "lastSyncedAt": "2026-09-26T15:08:25.978Z"
         }
       ]
     },
