@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:04:01.477Z",
+  "updatedAt": "2026-09-26T15:04:08.344Z",
   "problems": [
     {
       "frontendId": "1",
@@ -782,7 +782,7 @@
           "filename": "0136-single-number.cpp",
           "path": "0136-single-number/0136-single-number.cpp",
           "sha": "41ba32713fbf3e8ef8a352b4394a907d712f6e7a",
-          "lastSyncedAt": "2026-09-26T14:17:16.394Z"
+          "lastSyncedAt": "2026-09-26T15:04:08.344Z"
         }
       ]
     },
