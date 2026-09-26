@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-26T14:31:52.153Z",
+  "updatedAt": "2026-09-26T14:31:56.511Z",
   "problems": [
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0029-divide-two-integers.cpp",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.cpp",
+          "sha": "4b667ebdc465d50be60634ec98ce0838b930f81d",
+          "lastSyncedAt": "2026-09-26T14:31:56.511Z"
+        }
+      ]
+    },
     {
       "frontendId": "136",
       "title": "Single Number",
