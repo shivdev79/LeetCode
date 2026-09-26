@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-26T14:29:00.098Z",
+  "updatedAt": "2026-09-26T14:29:08.281Z",
   "problems": [
     {
       "frontendId": "98",
@@ -303,6 +303,26 @@
           "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.cpp",
           "sha": "9da55b3fd60d18302d876e18fc68a1878188128d",
           "lastSyncedAt": "2026-09-26T14:15:51.939Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "problemName": "0222-count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "folderPath": "0222-count-complete-tree-nodes/",
+      "readmePath": "0222-count-complete-tree-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0222-count-complete-tree-nodes.cpp",
+          "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.cpp",
+          "sha": "ca94e1da206ca092ca8c55b933732c0d0d303d62",
+          "lastSyncedAt": "2026-09-26T14:29:08.281Z"
         }
       ]
     },
