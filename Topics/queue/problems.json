@@ -4,7 +4,7 @@
     "slug": "queue",
     "name": "Queue"
   },
-  "updatedAt": "2026-09-26T15:11:48.189Z",
+  "updatedAt": "2026-09-26T15:11:53.687Z",
   "problems": [
     {
       "frontendId": "225",
@@ -62,7 +62,7 @@
           "filename": "0239-sliding-window-maximum.cpp",
           "path": "0239-sliding-window-maximum/0239-sliding-window-maximum.cpp",
           "sha": "84f42622d56bf7ed12a1ce3a0c9e4736c0adefe5",
-          "lastSyncedAt": "2026-09-26T14:26:56.715Z"
+          "lastSyncedAt": "2026-09-26T15:11:53.687Z"
         }
       ]
     },
