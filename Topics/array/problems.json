@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:21:22.818Z",
+  "updatedAt": "2026-09-26T14:22:07.240Z",
   "problems": [
     {
       "frontendId": "11",
@@ -1263,6 +1263,26 @@
           "path": "3591-check-if-any-element-has-prime-frequency/3591-check-if-any-element-has-prime-frequency.cpp",
           "sha": "d067d9b1b88c8a4f3c952f3c29fb256b892ecad0",
           "lastSyncedAt": "2026-09-26T14:11:41.498Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3640",
+      "title": "Trionic Array II",
+      "slug": "trionic-array-ii",
+      "problemName": "3640-trionic-array-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trionic-array-ii/",
+      "folderPath": "3640-trionic-array-ii/",
+      "readmePath": "3640-trionic-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3640-trionic-array-ii.cpp",
+          "path": "3640-trionic-array-ii/3640-trionic-array-ii.cpp",
+          "sha": "d24f2ccd1c4356e34efe3fd04a08b4b073eff179",
+          "lastSyncedAt": "2026-09-26T14:22:07.240Z"
         }
       ]
     },
