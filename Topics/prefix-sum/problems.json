@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-26T14:08:37.084Z",
+  "updatedAt": "2026-09-26T14:14:55.074Z",
   "problems": [
     {
       "frontendId": "238",
@@ -23,6 +23,26 @@
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "db974285df58784183deb9254a380821fc687a3e",
           "lastSyncedAt": "2026-09-26T14:08:37.084Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1991",
+      "title": "Find the Middle Index in Array",
+      "slug": "find-the-middle-index-in-array",
+      "problemName": "1991-find-the-middle-index-in-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-middle-index-in-array/",
+      "folderPath": "1991-find-the-middle-index-in-array/",
+      "readmePath": "1991-find-the-middle-index-in-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1991-find-the-middle-index-in-array.cpp",
+          "path": "1991-find-the-middle-index-in-array/1991-find-the-middle-index-in-array.cpp",
+          "sha": "5caebf34dd566f4d6a28d973dd7474604984e499",
+          "lastSyncedAt": "2026-09-26T14:14:55.074Z"
         }
       ]
     }
