@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:16:29.446Z",
+  "updatedAt": "2026-09-26T14:16:37.286Z",
   "problems": [
     {
       "frontendId": "11",
@@ -123,6 +123,26 @@
           "path": "0049-group-anagrams/0049-group-anagrams.cpp",
           "sha": "82e80824abc261b2f8ae9a4652e07480062dc686",
           "lastSyncedAt": "2026-09-26T14:06:36.184Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "0055-jump-game/",
+      "readmePath": "0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0055-jump-game.cpp",
+          "path": "0055-jump-game/0055-jump-game.cpp",
+          "sha": "e1bb90bad918d305957a4d55cee82a815747ba1c",
+          "lastSyncedAt": "2026-09-26T14:16:37.286Z"
         }
       ]
     },
