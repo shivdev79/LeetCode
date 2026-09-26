@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-26T14:35:18.845Z",
+  "updatedAt": "2026-09-26T14:35:32.524Z",
   "problems": [
     {
       "frontendId": "2",
@@ -143,6 +143,26 @@
           "path": "0086-partition-list/0086-partition-list.cpp",
           "sha": "2ee9ff0e4a946c3b0ff37a2fccf9803b066e6c8a",
           "lastSyncedAt": "2026-09-26T14:28:25.046Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "problemName": "0092-reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "folderPath": "0092-reverse-linked-list-ii/",
+      "readmePath": "0092-reverse-linked-list-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0092-reverse-linked-list-ii.cpp",
+          "path": "0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.cpp",
+          "sha": "75186ae21da6d87857667feb2b636d1cef44cbe6",
+          "lastSyncedAt": "2026-09-26T14:35:32.524Z"
         }
       ]
     },
