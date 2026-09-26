@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-26T14:12:24.961Z",
+  "updatedAt": "2026-09-26T14:12:39.177Z",
   "problems": [
     {
       "frontendId": "130",
@@ -23,6 +23,26 @@
           "path": "0130-surrounded-regions/0130-surrounded-regions.cpp",
           "sha": "5afd339cf95a290ea4b2a52a12ba88b4c149ac97",
           "lastSyncedAt": "2026-09-26T14:12:24.961Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0200-number-of-islands.cpp",
+          "path": "0200-number-of-islands/0200-number-of-islands.cpp",
+          "sha": "ba4134626344483c86636715c4cd3a095a846d34",
+          "lastSyncedAt": "2026-09-26T14:12:39.177Z"
         }
       ]
     }
