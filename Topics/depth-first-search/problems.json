@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-26T14:25:41.484Z",
+  "updatedAt": "2026-09-26T14:25:48.999Z",
   "problems": [
     {
       "frontendId": "98",
@@ -383,6 +383,26 @@
           "path": "0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.cpp",
           "sha": "a7761ea896a44e1532aaee98583209816ff75724",
           "lastSyncedAt": "2026-09-26T14:20:17.208Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "543",
+      "title": "Diameter of Binary Tree",
+      "slug": "diameter-of-binary-tree",
+      "problemName": "0543-diameter-of-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "folderPath": "0543-diameter-of-binary-tree/",
+      "readmePath": "0543-diameter-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0543-diameter-of-binary-tree.cpp",
+          "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
+          "sha": "85ec95e346b81833a2cede56946ea04f523780aa",
+          "lastSyncedAt": "2026-09-26T14:25:48.999Z"
         }
       ]
     },
