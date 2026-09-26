@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-26T14:47:46.442Z",
+  "updatedAt": "2026-09-26T14:47:56.073Z",
   "problems": [
     {
       "frontendId": "17",
@@ -263,6 +263,26 @@
           "path": "0401-binary-watch/0401-binary-watch.cpp",
           "sha": "f71605c3df175c3ca586f46cadf940cf85b31268",
           "lastSyncedAt": "2026-09-26T14:22:01.449Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1079",
+      "title": "Letter Tile Possibilities",
+      "slug": "letter-tile-possibilities",
+      "problemName": "1079-letter-tile-possibilities",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-tile-possibilities/",
+      "folderPath": "1079-letter-tile-possibilities/",
+      "readmePath": "1079-letter-tile-possibilities/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1079-letter-tile-possibilities.cpp",
+          "path": "1079-letter-tile-possibilities/1079-letter-tile-possibilities.cpp",
+          "sha": "98f6ccf8e4cd262293427abb46d8fc0f89e4395f",
+          "lastSyncedAt": "2026-09-26T14:47:56.073Z"
         }
       ]
     },
