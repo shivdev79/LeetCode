@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-26T15:20:54.381Z",
+  "updatedAt": "2026-09-26T15:21:39.619Z",
   "problems": [
     {
       "frontendId": "238",
@@ -182,7 +182,7 @@
           "filename": "2302-count-subarrays-with-score-less-than-k.cpp",
           "path": "2302-count-subarrays-with-score-less-than-k/2302-count-subarrays-with-score-less-than-k.cpp",
           "sha": "e09e1247e7ba7afe35d8251231d014b55da40ec2",
-          "lastSyncedAt": "2026-09-26T14:40:18.966Z"
+          "lastSyncedAt": "2026-09-26T15:21:39.619Z"
         }
       ]
     },
