@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-26T14:19:02.875Z",
+  "updatedAt": "2026-09-26T14:19:32.534Z",
   "problems": [
     {
       "frontendId": "104",
@@ -143,6 +143,26 @@
           "path": "0199-binary-tree-right-side-view/0199-binary-tree-right-side-view.cpp",
           "sha": "9da55b3fd60d18302d876e18fc68a1878188128d",
           "lastSyncedAt": "2026-09-26T14:15:51.939Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "897",
+      "title": "Increasing Order Search Tree",
+      "slug": "increasing-order-search-tree",
+      "problemName": "0897-increasing-order-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/increasing-order-search-tree/",
+      "folderPath": "0897-increasing-order-search-tree/",
+      "readmePath": "0897-increasing-order-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0897-increasing-order-search-tree.cpp",
+          "path": "0897-increasing-order-search-tree/0897-increasing-order-search-tree.cpp",
+          "sha": "4792523db573c794eb74df1841b896ee3dc592a8",
+          "lastSyncedAt": "2026-09-26T14:19:32.534Z"
         }
       ]
     },
