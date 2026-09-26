@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T14:27:31.640Z",
+  "updatedAt": "2026-09-26T14:29:56.296Z",
   "problems": [
     {
       "frontendId": "3",
@@ -103,6 +103,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
           "sha": "55d0c41e36a4e5ccd33bc570fd81cbdeb49189ed",
           "lastSyncedAt": "2026-09-26T14:13:15.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "556",
+      "title": "Next Greater Element III",
+      "slug": "next-greater-element-iii",
+      "problemName": "0556-next-greater-element-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-iii/",
+      "folderPath": "0556-next-greater-element-iii/",
+      "readmePath": "0556-next-greater-element-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0556-next-greater-element-iii.cpp",
+          "path": "0556-next-greater-element-iii/0556-next-greater-element-iii.cpp",
+          "sha": "abf6fda5c304be3bf497529f2336bbb19c7b3241",
+          "lastSyncedAt": "2026-09-26T14:29:56.296Z"
         }
       ]
     },
