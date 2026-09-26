@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-09-26T15:13:15.325Z",
+  "updatedAt": "2026-09-26T15:14:07.755Z",
   "problems": [
     {
       "frontendId": "42",
@@ -62,7 +62,7 @@
           "filename": "0496-next-greater-element-i.cpp",
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.cpp",
           "sha": "4426824e458770abd9e8ed070bd0858365fab7bc",
-          "lastSyncedAt": "2026-09-26T14:29:46.048Z"
+          "lastSyncedAt": "2026-09-26T15:14:07.755Z"
         }
       ]
     },
