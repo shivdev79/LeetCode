@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-26T15:14:53.731Z",
+  "updatedAt": "2026-09-26T15:14:59.245Z",
   "problems": [
     {
       "frontendId": "2",
@@ -322,7 +322,7 @@
           "filename": "0633-sum-of-square-numbers.cpp",
           "path": "0633-sum-of-square-numbers/0633-sum-of-square-numbers.cpp",
           "sha": "c328db11def3e7526cdf8a1f88a17ef1c29047cc",
-          "lastSyncedAt": "2026-09-26T14:31:06.688Z"
+          "lastSyncedAt": "2026-09-26T15:14:59.245Z"
         }
       ]
     },
