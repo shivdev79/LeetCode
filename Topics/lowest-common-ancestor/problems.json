@@ -4,7 +4,7 @@
     "slug": "lowest-common-ancestor",
     "name": "Lowest Common Ancestor"
   },
-  "updatedAt": "2026-09-26T14:45:41.481Z",
+  "updatedAt": "2026-09-26T15:06:31.233Z",
   "problems": [
     {
       "frontendId": "235",
@@ -22,7 +22,7 @@
           "filename": "0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "path": "0235-lowest-common-ancestor-of-a-binary-search-tree/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
           "sha": "e80e1fe29587d50b30c95e7ccd05b2576c1a87af",
-          "lastSyncedAt": "2026-09-26T14:20:00.866Z"
+          "lastSyncedAt": "2026-09-26T15:06:31.233Z"
         }
       ]
     },
