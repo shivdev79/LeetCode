@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-26T14:06:05.711Z",
+  "updatedAt": "2026-09-26T14:07:04.013Z",
   "problems": [
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0062-unique-paths.cpp",
+          "path": "0062-unique-paths/0062-unique-paths.cpp",
+          "sha": "a1d245d9e32c18611296cec083a80ca77ccefe99",
+          "lastSyncedAt": "2026-09-26T14:07:04.013Z"
+        }
+      ]
+    },
     {
       "frontendId": "152",
       "title": "Maximum Product Subarray",
