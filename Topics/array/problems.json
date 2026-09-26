@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:11:04.449Z",
+  "updatedAt": "2026-09-26T14:11:16.832Z",
   "problems": [
     {
       "frontendId": "11",
@@ -603,6 +603,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp",
           "sha": "f08b399df29d7164c958c4bf869dbd1938a53921",
           "lastSyncedAt": "2026-09-26T14:09:35.024Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3940",
+      "title": "Limit Occurrences in Sorted Array",
+      "slug": "limit-occurrences-in-sorted-array",
+      "problemName": "3940-limit-occurrences-in-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
+      "folderPath": "3940-limit-occurrences-in-sorted-array/",
+      "readmePath": "3940-limit-occurrences-in-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3940-limit-occurrences-in-sorted-array.cpp",
+          "path": "3940-limit-occurrences-in-sorted-array/3940-limit-occurrences-in-sorted-array.cpp",
+          "sha": "1390e3e2b94f9b816c7592e5c5c2d519513f944a",
+          "lastSyncedAt": "2026-09-26T14:11:16.832Z"
         }
       ]
     }
