@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-26T14:39:57.212Z",
+  "updatedAt": "2026-09-26T14:42:26.176Z",
   "problems": [
     {
       "frontendId": "11",
@@ -743,6 +743,26 @@
           "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
           "sha": "2cea55eb0c5c57d59835112e96237a79f3858c8f",
           "lastSyncedAt": "2026-09-26T14:10:02.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2563",
+      "title": "Count the Number of Fair Pairs",
+      "slug": "count-the-number-of-fair-pairs",
+      "problemName": "2563-count-the-number-of-fair-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-fair-pairs/",
+      "folderPath": "2563-count-the-number-of-fair-pairs/",
+      "readmePath": "2563-count-the-number-of-fair-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2563-count-the-number-of-fair-pairs.cpp",
+          "path": "2563-count-the-number-of-fair-pairs/2563-count-the-number-of-fair-pairs.cpp",
+          "sha": "3517338c44ca34a932315178d81fc769efcf8800",
+          "lastSyncedAt": "2026-09-26T14:42:26.176Z"
         }
       ]
     },
