@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-26T15:20:12.062Z",
+  "updatedAt": "2026-09-26T15:20:27.444Z",
   "problems": [
     {
       "frontendId": "1",
@@ -422,7 +422,7 @@
           "filename": "0350-intersection-of-two-arrays-ii.cpp",
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.cpp",
           "sha": "04f94a0720eb838bcf2c1b0719ab45a07b8e7016",
-          "lastSyncedAt": "2026-09-26T14:38:50.667Z"
+          "lastSyncedAt": "2026-09-26T15:20:27.444Z"
         }
       ]
     },
