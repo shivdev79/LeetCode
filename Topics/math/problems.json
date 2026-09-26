@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-26T14:17:02.800Z",
+  "updatedAt": "2026-09-26T14:25:58.780Z",
   "problems": [
     {
       "frontendId": "2",
@@ -163,6 +163,26 @@
           "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.cpp",
           "sha": "0c7df3a7553aafd07d552fc3a2aea015fbff35d3",
           "lastSyncedAt": "2026-09-26T14:15:44.337Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1916",
+      "title": "Count Ways to Build Rooms in an Ant Colony",
+      "slug": "count-ways-to-build-rooms-in-an-ant-colony",
+      "problemName": "1916-count-ways-to-build-rooms-in-an-ant-colony",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/",
+      "folderPath": "1916-count-ways-to-build-rooms-in-an-ant-colony/",
+      "readmePath": "1916-count-ways-to-build-rooms-in-an-ant-colony/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1916-count-ways-to-build-rooms-in-an-ant-colony.cpp",
+          "path": "1916-count-ways-to-build-rooms-in-an-ant-colony/1916-count-ways-to-build-rooms-in-an-ant-colony.cpp",
+          "sha": "f10eb25421e8672d3300f0c618fafd92f9e21ce8",
+          "lastSyncedAt": "2026-09-26T14:25:58.780Z"
         }
       ]
     },
