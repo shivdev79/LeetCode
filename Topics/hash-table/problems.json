@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-26T14:07:57.050Z",
+  "updatedAt": "2026-09-26T14:09:15.208Z",
   "problems": [
     {
       "frontendId": "37",
@@ -123,6 +123,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.cpp",
           "sha": "439e3697139f44e61b7ad5941b72d06108793b0f",
           "lastSyncedAt": "2026-09-26T14:05:45.998Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "961",
+      "title": "N-Repeated Element in Size 2N Array",
+      "slug": "n-repeated-element-in-size-2n-array",
+      "problemName": "0961-n-repeated-element-in-size-2n-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+      "folderPath": "0961-n-repeated-element-in-size-2n-array/",
+      "readmePath": "0961-n-repeated-element-in-size-2n-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0961-n-repeated-element-in-size-2n-array.cpp",
+          "path": "0961-n-repeated-element-in-size-2n-array/0961-n-repeated-element-in-size-2n-array.cpp",
+          "sha": "32e6d8a3f18e8e8af6effe5dfd76c3116b15dec9",
+          "lastSyncedAt": "2026-09-26T14:09:15.208Z"
         }
       ]
     },
