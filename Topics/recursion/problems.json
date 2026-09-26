@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-26T15:02:50.220Z",
+  "updatedAt": "2026-09-26T15:07:24.770Z",
   "problems": [
     {
       "frontendId": "2",
@@ -222,7 +222,7 @@
           "filename": "1545-find-kth-bit-in-nth-binary-string.cpp",
           "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.cpp",
           "sha": "d7d5bf7d0645450d1c75eeca40ddaacd9b14b7ab",
-          "lastSyncedAt": "2026-09-26T14:21:05.685Z"
+          "lastSyncedAt": "2026-09-26T15:07:24.770Z"
         }
       ]
     },
