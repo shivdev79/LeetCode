@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-26T14:19:42.218Z",
+  "updatedAt": "2026-09-26T14:22:13.696Z",
   "problems": [
     {
       "frontendId": "49",
@@ -323,6 +323,26 @@
           "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
           "sha": "2cea55eb0c5c57d59835112e96237a79f3858c8f",
           "lastSyncedAt": "2026-09-26T14:10:02.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2583",
+      "title": "Kth Largest Sum in a Binary Tree",
+      "slug": "kth-largest-sum-in-a-binary-tree",
+      "problemName": "2583-kth-largest-sum-in-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/",
+      "folderPath": "2583-kth-largest-sum-in-a-binary-tree/",
+      "readmePath": "2583-kth-largest-sum-in-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2583-kth-largest-sum-in-a-binary-tree.cpp",
+          "path": "2583-kth-largest-sum-in-a-binary-tree/2583-kth-largest-sum-in-a-binary-tree.cpp",
+          "sha": "1f5290ee03a1eb87733d28631730c0230f40a929",
+          "lastSyncedAt": "2026-09-26T14:22:13.696Z"
         }
       ]
     }
