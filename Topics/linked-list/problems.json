@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-26T14:36:38.696Z",
+  "updatedAt": "2026-09-26T14:36:43.398Z",
   "problems": [
     {
       "frontendId": "2",
@@ -423,6 +423,26 @@
           "path": "0328-odd-even-linked-list/0328-odd-even-linked-list.cpp",
           "sha": "72d1a773e0f50e8ccde409bf26aae789612fae8b",
           "lastSyncedAt": "2026-09-26T14:35:44.728Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "0876-middle-of-the-linked-list/",
+      "readmePath": "0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0876-middle-of-the-linked-list.cpp",
+          "path": "0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.cpp",
+          "sha": "0e1a7b96b7533296d73cf0301af2edb74fcde652",
+          "lastSyncedAt": "2026-09-26T14:36:43.398Z"
         }
       ]
     },
