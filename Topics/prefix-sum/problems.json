@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-26T14:17:59.296Z",
+  "updatedAt": "2026-09-26T14:18:07.011Z",
   "problems": [
     {
       "frontendId": "238",
@@ -23,6 +23,26 @@
           "path": "0238-product-of-array-except-self/0238-product-of-array-except-self.cpp",
           "sha": "db974285df58784183deb9254a380821fc687a3e",
           "lastSyncedAt": "2026-09-26T14:08:37.084Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "problemName": "0525-contiguous-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+      "folderPath": "0525-contiguous-array/",
+      "readmePath": "0525-contiguous-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0525-contiguous-array.cpp",
+          "path": "0525-contiguous-array/0525-contiguous-array.cpp",
+          "sha": "90eb02d3700cc63886ade5ae3947f0e9b50aadd4",
+          "lastSyncedAt": "2026-09-26T14:18:07.011Z"
         }
       ]
     },
