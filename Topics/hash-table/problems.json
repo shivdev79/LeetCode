@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-26T14:12:17.722Z",
+  "updatedAt": "2026-09-26T14:13:15.081Z",
   "problems": [
     {
       "frontendId": "37",
@@ -143,6 +143,26 @@
           "path": "0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.cpp",
           "sha": "c4c3c0a70d198954d180737cbe353b924f5a56ce",
           "lastSyncedAt": "2026-09-26T14:09:22.677Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0451-sort-characters-by-frequency.cpp",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.cpp",
+          "sha": "55d0c41e36a4e5ccd33bc570fd81cbdeb49189ed",
+          "lastSyncedAt": "2026-09-26T14:13:15.081Z"
         }
       ]
     },
