@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:38:00.816Z",
+  "updatedAt": "2026-09-26T14:38:11.697Z",
   "problems": [
     {
       "frontendId": "4",
@@ -1283,6 +1283,26 @@
           "path": "1046-last-stone-weight/1046-last-stone-weight.cpp",
           "sha": "13defc2fa2b190b6cf62f1b6b10b3fa70b7c7ac3",
           "lastSyncedAt": "2026-09-26T14:14:48.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1128",
+      "title": "Number of Equivalent Domino Pairs",
+      "slug": "number-of-equivalent-domino-pairs",
+      "problemName": "1128-number-of-equivalent-domino-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/",
+      "folderPath": "1128-number-of-equivalent-domino-pairs/",
+      "readmePath": "1128-number-of-equivalent-domino-pairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1128-number-of-equivalent-domino-pairs.cpp",
+          "path": "1128-number-of-equivalent-domino-pairs/1128-number-of-equivalent-domino-pairs.cpp",
+          "sha": "a460f0a8c297572757ca035f4c0e75adb8eb8be7",
+          "lastSyncedAt": "2026-09-26T14:38:11.697Z"
         }
       ]
     },
