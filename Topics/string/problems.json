@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T14:34:24.741Z",
+  "updatedAt": "2026-09-26T14:34:34.997Z",
   "problems": [
     {
       "frontendId": "3",
@@ -163,6 +163,26 @@
           "path": "0131-palindrome-partitioning/0131-palindrome-partitioning.cpp",
           "sha": "fe04e71d3fbe19dd0363eb918fd9f632e55e811d",
           "lastSyncedAt": "2026-09-26T14:32:23.133Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "0205-isomorphic-strings/",
+      "readmePath": "0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0205-isomorphic-strings.cpp",
+          "path": "0205-isomorphic-strings/0205-isomorphic-strings.cpp",
+          "sha": "c803a4fa0da609ee41c64f02c6600858d5ab8601",
+          "lastSyncedAt": "2026-09-26T14:34:34.997Z"
         }
       ]
     },
