@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:45:14.071Z",
+  "updatedAt": "2026-09-26T14:45:20.969Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2683,6 +2683,26 @@
           "path": "3392-count-subarrays-of-length-three-with-a-condition/3392-count-subarrays-of-length-three-with-a-condition.cpp",
           "sha": "bd3d15086d24e29629a49f602daff7d87355da4c",
           "lastSyncedAt": "2026-09-26T14:40:29.810Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3396",
+      "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+      "slug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+      "problemName": "3396-minimum-number-of-operations-to-make-elements-in-array-distinct",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/",
+      "folderPath": "3396-minimum-number-of-operations-to-make-elements-in-array-distinct/",
+      "readmePath": "3396-minimum-number-of-operations-to-make-elements-in-array-distinct/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3396-minimum-number-of-operations-to-make-elements-in-array-distinct.cpp",
+          "path": "3396-minimum-number-of-operations-to-make-elements-in-array-distinct/3396-minimum-number-of-operations-to-make-elements-in-array-distinct.cpp",
+          "sha": "968e482428fe721bb0e7b58db7a260708f9ff44d",
+          "lastSyncedAt": "2026-09-26T14:45:20.969Z"
         }
       ]
     },
