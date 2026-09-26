@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:33:07.807Z",
+  "updatedAt": "2026-09-26T14:33:13.700Z",
   "problems": [
     {
       "frontendId": "11",
@@ -263,6 +263,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
           "sha": "29f7de362f663ef6604178a3333ae0df3f7e7ce3",
           "lastSyncedAt": "2026-09-26T14:26:27.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0078-subsets.cpp",
+          "path": "0078-subsets/0078-subsets.cpp",
+          "sha": "0e5b7519be67f02797f93d0767142e9bf61dbc72",
+          "lastSyncedAt": "2026-09-26T14:33:13.700Z"
         }
       ]
     },
