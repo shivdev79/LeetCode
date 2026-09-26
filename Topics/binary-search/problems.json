@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-26T14:40:18.966Z",
+  "updatedAt": "2026-09-26T14:40:34.658Z",
   "problems": [
     {
       "frontendId": "4",
@@ -83,6 +83,26 @@
           "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.cpp",
           "sha": "ca94e1da206ca092ca8c55b933732c0d0d303d62",
           "lastSyncedAt": "2026-09-26T14:29:08.281Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "problemName": "0240-search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "folderPath": "0240-search-a-2d-matrix-ii/",
+      "readmePath": "0240-search-a-2d-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0240-search-a-2d-matrix-ii.cpp",
+          "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.cpp",
+          "sha": "a19d6be5257a64bb76ab65b31847dcafc900eb3b",
+          "lastSyncedAt": "2026-09-26T14:40:34.658Z"
         }
       ]
     },
