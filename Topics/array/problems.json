@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:11:35.608Z",
+  "updatedAt": "2026-09-26T14:11:41.498Z",
   "problems": [
     {
       "frontendId": "11",
@@ -583,6 +583,26 @@
           "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.cpp",
           "sha": "0f23c4a40920104960beb286bbb675703318381c",
           "lastSyncedAt": "2026-09-26T14:05:59.005Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3591",
+      "title": "Check if Any Element Has Prime Frequency",
+      "slug": "check-if-any-element-has-prime-frequency",
+      "problemName": "3591-check-if-any-element-has-prime-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-any-element-has-prime-frequency/",
+      "folderPath": "3591-check-if-any-element-has-prime-frequency/",
+      "readmePath": "3591-check-if-any-element-has-prime-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3591-check-if-any-element-has-prime-frequency.cpp",
+          "path": "3591-check-if-any-element-has-prime-frequency/3591-check-if-any-element-has-prime-frequency.cpp",
+          "sha": "d067d9b1b88c8a4f3c952f3c29fb256b892ecad0",
+          "lastSyncedAt": "2026-09-26T14:11:41.498Z"
         }
       ]
     },
