@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-26T15:23:04.339Z",
+  "updatedAt": "2026-09-26T15:23:12.983Z",
   "problems": [
     {
       "frontendId": "4",
@@ -162,7 +162,7 @@
           "filename": "0153-find-minimum-in-rotated-sorted-array.cpp",
           "path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.cpp",
           "sha": "2fe970096422d881bb8c35ad4597484a6d4ce006",
-          "lastSyncedAt": "2026-09-26T14:42:36.272Z"
+          "lastSyncedAt": "2026-09-26T15:23:12.983Z"
         }
       ]
     },
