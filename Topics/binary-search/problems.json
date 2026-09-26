@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search"
+  },
+  "updatedAt": "2026-09-26T14:08:44.042Z",
+  "problems": [
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "0287-find-the-duplicate-number/",
+      "readmePath": "0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0287-find-the-duplicate-number.cpp",
+          "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
+          "sha": "21df50b603539296b5e22b79a8f22ba24fa06789",
+          "lastSyncedAt": "2026-09-26T14:08:44.042Z"
+        }
+      ]
+    }
+  ]
+}
