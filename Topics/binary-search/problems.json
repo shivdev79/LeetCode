@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-26T14:17:43.375Z",
+  "updatedAt": "2026-09-26T14:18:22.339Z",
   "problems": [
     {
       "frontendId": "33",
@@ -123,6 +123,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.cpp",
           "sha": "dbac0be33339817639b47ef636b3b3fc90d46745",
           "lastSyncedAt": "2026-09-26T14:10:16.037Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3600",
+      "title": "Maximize Spanning Tree Stability with Upgrades",
+      "slug": "maximize-spanning-tree-stability-with-upgrades",
+      "problemName": "3600-maximize-spanning-tree-stability-with-upgrades",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/",
+      "folderPath": "3600-maximize-spanning-tree-stability-with-upgrades/",
+      "readmePath": "3600-maximize-spanning-tree-stability-with-upgrades/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3600-maximize-spanning-tree-stability-with-upgrades.java",
+          "path": "3600-maximize-spanning-tree-stability-with-upgrades/3600-maximize-spanning-tree-stability-with-upgrades.java",
+          "sha": "b0ec1e4a0e1a8344029549492023d887bed59cd9",
+          "lastSyncedAt": "2026-09-26T14:18:22.339Z"
         }
       ]
     }
