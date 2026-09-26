@@ -1,0 +1,13 @@
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int n = nums.size();
+        long long total =  (1LL *n*(n+1))/2;
+        int sum = 0;
+        for(int i = 0 ; i < n ; i++){
+            sum = sum + nums[i];
+        }
+        long long diff = total - sum;
+        return diff;
+    }
+};
