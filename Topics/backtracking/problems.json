@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-26T14:32:23.133Z",
+  "updatedAt": "2026-09-26T14:32:30.465Z",
   "problems": [
     {
       "frontendId": "22",
@@ -43,6 +43,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
           "sha": "2a570ec266f74ce60d2eb370e784c8bb618479fe",
           "lastSyncedAt": "2026-09-26T14:06:46.387Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0046-permutations.cpp",
+          "path": "0046-permutations/0046-permutations.cpp",
+          "sha": "d32c073d004a341b51c59d4fe629abe555f2e8ed",
+          "lastSyncedAt": "2026-09-26T14:32:30.465Z"
         }
       ]
     },
