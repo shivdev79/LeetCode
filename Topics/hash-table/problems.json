@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-26T14:47:26.799Z",
+  "updatedAt": "2026-09-26T14:47:35.815Z",
   "problems": [
     {
       "frontendId": "1",
@@ -863,6 +863,26 @@
           "path": "1832-check-if-the-sentence-is-pangram/1832-check-if-the-sentence-is-pangram.cpp",
           "sha": "19137b847207dcf96b556a057aa473bf9ab530d5",
           "lastSyncedAt": "2026-09-26T14:34:57.842Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1980",
+      "title": "Find Unique Binary String",
+      "slug": "find-unique-binary-string",
+      "problemName": "1980-find-unique-binary-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-unique-binary-string/",
+      "folderPath": "1980-find-unique-binary-string/",
+      "readmePath": "1980-find-unique-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1980-find-unique-binary-string.cpp",
+          "path": "1980-find-unique-binary-string/1980-find-unique-binary-string.cpp",
+          "sha": "3329bedc9411df227c55532dc41bb4e2138de621",
+          "lastSyncedAt": "2026-09-26T14:47:35.815Z"
         }
       ]
     },
