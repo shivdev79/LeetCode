@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-26T14:43:03.096Z",
+  "updatedAt": "2026-09-26T14:44:06.741Z",
   "problems": [
     {
       "frontendId": "2",
@@ -503,6 +503,26 @@
           "path": "1916-count-ways-to-build-rooms-in-an-ant-colony/1916-count-ways-to-build-rooms-in-an-ant-colony.cpp",
           "sha": "f10eb25421e8672d3300f0c618fafd92f9e21ce8",
           "lastSyncedAt": "2026-09-26T14:25:58.780Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1922",
+      "title": "Count Good Numbers",
+      "slug": "count-good-numbers",
+      "problemName": "1922-count-good-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-good-numbers/",
+      "folderPath": "1922-count-good-numbers/",
+      "readmePath": "1922-count-good-numbers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1922-count-good-numbers.cpp",
+          "path": "1922-count-good-numbers/1922-count-good-numbers.cpp",
+          "sha": "d8cd0fb7848ad83e9b4a314d92fd98dbbda07c96",
+          "lastSyncedAt": "2026-09-26T14:44:06.741Z"
         }
       ]
     },
