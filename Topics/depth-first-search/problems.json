@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-26T15:10:42.674Z",
+  "updatedAt": "2026-09-26T15:10:48.265Z",
   "problems": [
     {
       "frontendId": "79",
@@ -82,7 +82,7 @@
           "filename": "0100-same-tree.cpp",
           "path": "0100-same-tree/0100-same-tree.cpp",
           "sha": "599519d0146beab6c410cf4be9b244bc1ac83f29",
-          "lastSyncedAt": "2026-09-26T14:25:31.853Z"
+          "lastSyncedAt": "2026-09-26T15:10:48.265Z"
         }
       ]
     },
