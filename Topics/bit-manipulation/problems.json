@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-26T14:21:56.639Z",
+  "updatedAt": "2026-09-26T14:22:01.449Z",
   "problems": [
     {
       "frontendId": "136",
@@ -63,6 +63,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "21df50b603539296b5e22b79a8f22ba24fa06789",
           "lastSyncedAt": "2026-09-26T14:08:44.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "401",
+      "title": "Binary Watch",
+      "slug": "binary-watch",
+      "problemName": "0401-binary-watch",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-watch/",
+      "folderPath": "0401-binary-watch/",
+      "readmePath": "0401-binary-watch/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0401-binary-watch.cpp",
+          "path": "0401-binary-watch/0401-binary-watch.cpp",
+          "sha": "f71605c3df175c3ca586f46cadf940cf85b31268",
+          "lastSyncedAt": "2026-09-26T14:22:01.449Z"
         }
       ]
     },
