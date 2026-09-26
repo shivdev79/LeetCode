@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-26T14:21:43.556Z",
+  "updatedAt": "2026-09-26T14:22:13.696Z",
   "problems": [
     {
       "frontendId": "98",
@@ -383,6 +383,26 @@
           "path": "1305-all-elements-in-two-binary-search-trees/1305-all-elements-in-two-binary-search-trees.cpp",
           "sha": "ddda63b66789458c43e055fdea0d1801ac44273f",
           "lastSyncedAt": "2026-09-26T14:19:42.218Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2583",
+      "title": "Kth Largest Sum in a Binary Tree",
+      "slug": "kth-largest-sum-in-a-binary-tree",
+      "problemName": "2583-kth-largest-sum-in-a-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/",
+      "folderPath": "2583-kth-largest-sum-in-a-binary-tree/",
+      "readmePath": "2583-kth-largest-sum-in-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2583-kth-largest-sum-in-a-binary-tree.cpp",
+          "path": "2583-kth-largest-sum-in-a-binary-tree/2583-kth-largest-sum-in-a-binary-tree.cpp",
+          "sha": "1f5290ee03a1eb87733d28631730c0230f40a929",
+          "lastSyncedAt": "2026-09-26T14:22:13.696Z"
         }
       ]
     }
