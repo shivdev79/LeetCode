@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-09-26T14:28:09.481Z",
+  "updatedAt": "2026-09-26T14:28:39.393Z",
   "problems": [
     {
       "frontendId": "42",
@@ -103,6 +103,26 @@
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.cpp",
           "sha": "8b3f307bbe0d9666ac7f7076e619988a85b0c55f",
           "lastSyncedAt": "2026-09-26T14:07:37.384Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1526",
+      "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+      "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "problemName": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+      "folderPath": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+      "readmePath": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.java",
+          "path": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.java",
+          "sha": "64f3e0435d827792352ecab7baec6c13f29972ab",
+          "lastSyncedAt": "2026-09-26T14:28:39.393Z"
         }
       ]
     },
