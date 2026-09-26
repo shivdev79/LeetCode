@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-26T14:13:37.766Z",
+  "updatedAt": "2026-09-26T14:15:44.337Z",
   "problems": [
     {
       "frontendId": "2",
@@ -123,6 +123,26 @@
           "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.cpp",
           "sha": "b99b3769251aad225045a6ff8fc628a87df690e3",
           "lastSyncedAt": "2026-09-26T14:10:23.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "problemName": "1903-largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "folderPath": "1903-largest-odd-number-in-string/",
+      "readmePath": "1903-largest-odd-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1903-largest-odd-number-in-string.cpp",
+          "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.cpp",
+          "sha": "0c7df3a7553aafd07d552fc3a2aea015fbff35d3",
+          "lastSyncedAt": "2026-09-26T14:15:44.337Z"
         }
       ]
     },
