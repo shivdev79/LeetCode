@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-26T14:19:12.159Z",
+  "updatedAt": "2026-09-26T14:29:08.281Z",
   "problems": [
     {
       "frontendId": "33",
@@ -43,6 +43,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.cpp",
           "sha": "aadf26186e12fdb458dbb041105eb0e54190a34a",
           "lastSyncedAt": "2026-09-26T14:12:09.370Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "222",
+      "title": "Count Complete Tree Nodes",
+      "slug": "count-complete-tree-nodes",
+      "problemName": "0222-count-complete-tree-nodes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "folderPath": "0222-count-complete-tree-nodes/",
+      "readmePath": "0222-count-complete-tree-nodes/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0222-count-complete-tree-nodes.cpp",
+          "path": "0222-count-complete-tree-nodes/0222-count-complete-tree-nodes.cpp",
+          "sha": "ca94e1da206ca092ca8c55b933732c0d0d303d62",
+          "lastSyncedAt": "2026-09-26T14:29:08.281Z"
         }
       ]
     },
