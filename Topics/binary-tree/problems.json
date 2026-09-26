@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-26T15:05:38.178Z",
+  "updatedAt": "2026-09-26T15:06:04.783Z",
   "problems": [
     {
       "frontendId": "94",
@@ -762,7 +762,7 @@
           "filename": "0897-increasing-order-search-tree.cpp",
           "path": "0897-increasing-order-search-tree/0897-increasing-order-search-tree.cpp",
           "sha": "4792523db573c794eb74df1841b896ee3dc592a8",
-          "lastSyncedAt": "2026-09-26T14:19:32.534Z"
+          "lastSyncedAt": "2026-09-26T15:06:04.783Z"
         }
       ]
     },
