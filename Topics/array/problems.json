@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:37:33.166Z",
+  "updatedAt": "2026-09-26T14:37:42.085Z",
   "problems": [
     {
       "frontendId": "4",
@@ -823,6 +823,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "21df50b603539296b5e22b79a8f22ba24fa06789",
           "lastSyncedAt": "2026-09-26T14:08:44.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "0414-third-maximum-number/",
+      "readmePath": "0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0414-third-maximum-number.cpp",
+          "path": "0414-third-maximum-number/0414-third-maximum-number.cpp",
+          "sha": "8af43f85e979544268e5de37133b9c5b020279c7",
+          "lastSyncedAt": "2026-09-26T14:37:42.085Z"
         }
       ]
     },
