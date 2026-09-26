@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-26T15:06:50.339Z",
+  "updatedAt": "2026-09-26T15:07:07.689Z",
   "problems": [
     {
       "frontendId": "79",
@@ -322,7 +322,7 @@
           "filename": "0230-kth-smallest-element-in-a-bst.cpp",
           "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.cpp",
           "sha": "138e4d751ce20c44231f9c1367548e13958a1777",
-          "lastSyncedAt": "2026-09-26T14:20:45.632Z"
+          "lastSyncedAt": "2026-09-26T15:07:07.689Z"
         }
       ]
     },
