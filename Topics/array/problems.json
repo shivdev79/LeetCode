@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:43:10.822Z",
+  "updatedAt": "2026-09-26T14:43:30.822Z",
   "problems": [
     {
       "frontendId": "1",
@@ -683,6 +683,26 @@
           "path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.cpp",
           "sha": "2fe970096422d881bb8c35ad4597484a6d4ce006",
           "lastSyncedAt": "2026-09-26T14:42:36.272Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0162-find-peak-element.cpp",
+          "path": "0162-find-peak-element/0162-find-peak-element.cpp",
+          "sha": "1cdf5b16a199fcf3eb3bd4a2cb87690717cfb1a8",
+          "lastSyncedAt": "2026-09-26T14:43:30.822Z"
         }
       ]
     },
