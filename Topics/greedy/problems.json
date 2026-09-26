@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-26T14:28:39.393Z",
+  "updatedAt": "2026-09-26T14:33:53.844Z",
   "problems": [
     {
       "frontendId": "11",
@@ -43,6 +43,26 @@
           "path": "0055-jump-game/0055-jump-game.cpp",
           "sha": "e1bb90bad918d305957a4d55cee82a815747ba1c",
           "lastSyncedAt": "2026-09-26T14:16:37.286Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "problemName": "0409-longest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "folderPath": "0409-longest-palindrome/",
+      "readmePath": "0409-longest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0409-longest-palindrome.cpp",
+          "path": "0409-longest-palindrome/0409-longest-palindrome.cpp",
+          "sha": "2de84016a809aa6155f57aa822c13d0e05764fdd",
+          "lastSyncedAt": "2026-09-26T14:33:53.844Z"
         }
       ]
     },
