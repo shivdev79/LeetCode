@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-26T14:41:00.725Z",
+  "updatedAt": "2026-09-26T14:44:56.542Z",
   "problems": [
     {
       "frontendId": "37",
@@ -43,6 +43,26 @@
           "path": "0048-rotate-image/0048-rotate-image.cpp",
           "sha": "1e540192fa3c51ca15b8fb2b34dfe0b6349da1ed",
           "lastSyncedAt": "2026-09-26T14:16:29.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "problemName": "0054-spiral-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+      "folderPath": "0054-spiral-matrix/",
+      "readmePath": "0054-spiral-matrix/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0054-spiral-matrix.cpp",
+          "path": "0054-spiral-matrix/0054-spiral-matrix.cpp",
+          "sha": "43f08f01ab126daf7b9e100ddc36f2a6a97ca363",
+          "lastSyncedAt": "2026-09-26T14:44:56.542Z"
         }
       ]
     },
