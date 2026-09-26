@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-26T14:23:23.305Z",
+  "updatedAt": "2026-09-26T14:23:40.562Z",
   "problems": [
+    {
+      "frontendId": "101",
+      "title": "Symmetric Tree",
+      "slug": "symmetric-tree",
+      "problemName": "0101-symmetric-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+      "folderPath": "0101-symmetric-tree/",
+      "readmePath": "0101-symmetric-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0101-symmetric-tree.cpp",
+          "path": "0101-symmetric-tree/0101-symmetric-tree.cpp",
+          "sha": "433cf43f64e62d98a02babacd062226b638262e4",
+          "lastSyncedAt": "2026-09-26T14:23:40.562Z"
+        }
+      ]
+    },
     {
       "frontendId": "104",
       "title": "Maximum Depth of Binary Tree",
