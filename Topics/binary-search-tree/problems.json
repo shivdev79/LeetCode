@@ -4,7 +4,7 @@
     "slug": "binary-search-tree",
     "name": "Binary Search Tree"
   },
-  "updatedAt": "2026-09-26T14:19:42.218Z",
+  "updatedAt": "2026-09-26T14:19:51.708Z",
   "problems": [
     {
       "frontendId": "108",
@@ -63,6 +63,26 @@
           "path": "0897-increasing-order-search-tree/0897-increasing-order-search-tree.cpp",
           "sha": "4792523db573c794eb74df1841b896ee3dc592a8",
           "lastSyncedAt": "2026-09-26T14:19:32.534Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "938",
+      "title": "Range Sum of BST",
+      "slug": "range-sum-of-bst",
+      "problemName": "0938-range-sum-of-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-of-bst/",
+      "folderPath": "0938-range-sum-of-bst/",
+      "readmePath": "0938-range-sum-of-bst/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0938-range-sum-of-bst.cpp",
+          "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.cpp",
+          "sha": "4027622e5e3e4ab81354db3650e9b5d929904684",
+          "lastSyncedAt": "2026-09-26T14:19:51.708Z"
         }
       ]
     },
