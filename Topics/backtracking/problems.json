@@ -4,8 +4,28 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-26T14:32:37.636Z",
+  "updatedAt": "2026-09-26T14:32:51.912Z",
   "problems": [
+    {
+      "frontendId": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "slug": "letter-combinations-of-a-phone-number",
+      "problemName": "0017-letter-combinations-of-a-phone-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "folderPath": "0017-letter-combinations-of-a-phone-number/",
+      "readmePath": "0017-letter-combinations-of-a-phone-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0017-letter-combinations-of-a-phone-number.cpp",
+          "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.cpp",
+          "sha": "97b308389af3483d4a5f871979ec44432c988059",
+          "lastSyncedAt": "2026-09-26T14:32:51.912Z"
+        }
+      ]
+    },
     {
       "frontendId": "22",
       "title": "Generate Parentheses",
