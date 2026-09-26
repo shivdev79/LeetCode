@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:47:09.643Z",
+  "updatedAt": "2026-09-26T14:47:20.221Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2423,6 +2423,26 @@
           "path": "2206-divide-array-into-equal-pairs/2206-divide-array-into-equal-pairs.cpp",
           "sha": "b5d787a3f16c8827cca6d32efe1ef2c5fb5feef4",
           "lastSyncedAt": "2026-09-26T14:46:57.347Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2226",
+      "title": "Maximum Candies Allocated to K Children",
+      "slug": "maximum-candies-allocated-to-k-children",
+      "problemName": "2226-maximum-candies-allocated-to-k-children",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+      "folderPath": "2226-maximum-candies-allocated-to-k-children/",
+      "readmePath": "2226-maximum-candies-allocated-to-k-children/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2226-maximum-candies-allocated-to-k-children.cpp",
+          "path": "2226-maximum-candies-allocated-to-k-children/2226-maximum-candies-allocated-to-k-children.cpp",
+          "sha": "c5b29dd88e9e769898dd228bdb57b9e0f727f988",
+          "lastSyncedAt": "2026-09-26T14:47:20.221Z"
         }
       ]
     },
