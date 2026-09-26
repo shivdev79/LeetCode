@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-26T15:14:59.245Z",
+  "updatedAt": "2026-09-26T15:17:04.958Z",
   "problems": [
     {
       "frontendId": "11",
@@ -542,7 +542,7 @@
           "filename": "0392-is-subsequence.cpp",
           "path": "0392-is-subsequence/0392-is-subsequence.cpp",
           "sha": "f43a68c7bfd1f73980982f6cc2be559f79de1326",
-          "lastSyncedAt": "2026-09-26T14:34:07.262Z"
+          "lastSyncedAt": "2026-09-26T15:17:04.958Z"
         }
       ]
     },
