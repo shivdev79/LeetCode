@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:58:06.627Z",
+  "updatedAt": "2026-09-26T14:58:11.211Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3062,7 +3062,7 @@
           "filename": "3718-smallest-missing-multiple-of-k.cpp",
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp",
           "sha": "f08b399df29d7164c958c4bf869dbd1938a53921",
-          "lastSyncedAt": "2026-09-26T14:09:35.024Z"
+          "lastSyncedAt": "2026-09-26T14:58:11.211Z"
         }
       ]
     },
