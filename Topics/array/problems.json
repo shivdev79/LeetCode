@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:42:02.080Z",
+  "updatedAt": "2026-09-26T14:42:08.258Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1943,6 +1943,26 @@
           "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.cpp",
           "sha": "121c443a5a78315af5910152c0dc6cb2667e7f45",
           "lastSyncedAt": "2026-09-26T14:17:08.803Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2145",
+      "title": "Count the Hidden Sequences",
+      "slug": "count-the-hidden-sequences",
+      "problemName": "2145-count-the-hidden-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-hidden-sequences/",
+      "folderPath": "2145-count-the-hidden-sequences/",
+      "readmePath": "2145-count-the-hidden-sequences/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2145-count-the-hidden-sequences.cpp",
+          "path": "2145-count-the-hidden-sequences/2145-count-the-hidden-sequences.cpp",
+          "sha": "5b4ec2d9c1c93eec2487fe44914d2089dee12c08",
+          "lastSyncedAt": "2026-09-26T14:42:08.258Z"
         }
       ]
     },
