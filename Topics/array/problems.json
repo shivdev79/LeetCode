@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:42:36.272Z",
+  "updatedAt": "2026-09-26T14:42:48.620Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2003,6 +2003,26 @@
           "path": "2145-count-the-hidden-sequences/2145-count-the-hidden-sequences.cpp",
           "sha": "5b4ec2d9c1c93eec2487fe44914d2089dee12c08",
           "lastSyncedAt": "2026-09-26T14:42:08.258Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2176",
+      "title": "Count Equal and Divisible Pairs in an Array",
+      "slug": "count-equal-and-divisible-pairs-in-an-array",
+      "problemName": "2176-count-equal-and-divisible-pairs-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/",
+      "folderPath": "2176-count-equal-and-divisible-pairs-in-an-array/",
+      "readmePath": "2176-count-equal-and-divisible-pairs-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2176-count-equal-and-divisible-pairs-in-an-array.cpp",
+          "path": "2176-count-equal-and-divisible-pairs-in-an-array/2176-count-equal-and-divisible-pairs-in-an-array.cpp",
+          "sha": "b74b6b6ba1af43184fede70457e11e6c64f65eee",
+          "lastSyncedAt": "2026-09-26T14:42:48.620Z"
         }
       ]
     },
