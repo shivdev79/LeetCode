@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-26T14:23:00.849Z",
+  "updatedAt": "2026-09-26T14:23:09.596Z",
   "problems": [
     {
       "frontendId": "98",
@@ -323,6 +323,26 @@
           "path": "0783-minimum-distance-between-bst-nodes/0783-minimum-distance-between-bst-nodes.cpp",
           "sha": "05af3f66dc92e3fa28e1777922640f5b9b67dc20",
           "lastSyncedAt": "2026-09-26T14:20:54.489Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "872",
+      "title": "Leaf-Similar Trees",
+      "slug": "leaf-similar-trees",
+      "problemName": "0872-leaf-similar-trees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/leaf-similar-trees/",
+      "folderPath": "0872-leaf-similar-trees/",
+      "readmePath": "0872-leaf-similar-trees/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0872-leaf-similar-trees.cpp",
+          "path": "0872-leaf-similar-trees/0872-leaf-similar-trees.cpp",
+          "sha": "7c55fb8bcfd00ffe57ca2180ef01254c2c7c83c6",
+          "lastSyncedAt": "2026-09-26T14:23:09.596Z"
         }
       ]
     },
