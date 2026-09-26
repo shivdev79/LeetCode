@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-26T14:36:01.069Z",
+  "updatedAt": "2026-09-26T14:36:58.530Z",
   "problems": [
     {
       "frontendId": "47",
@@ -143,6 +143,26 @@
           "path": "0217-contains-duplicate/0217-contains-duplicate.cpp",
           "sha": "36df3d69d3916caeabef12168201227abc73cc4e",
           "lastSyncedAt": "2026-09-26T14:13:30.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0229-majority-element-ii.cpp",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.cpp",
+          "sha": "c22b25ec0695b5d7acca043e7d7059fe30c375ca",
+          "lastSyncedAt": "2026-09-26T14:36:58.530Z"
         }
       ]
     },
