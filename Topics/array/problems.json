@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:03:19.027Z",
+  "updatedAt": "2026-09-26T15:03:23.770Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2022,7 +2022,7 @@
           "filename": "1464-maximum-product-of-two-elements-in-an-array.cpp",
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.cpp",
           "sha": "abfbbc90bfa48162265ad9654dbaf6d6a064d59d",
-          "lastSyncedAt": "2026-09-26T14:16:14.656Z"
+          "lastSyncedAt": "2026-09-26T15:03:23.770Z"
         }
       ]
     },
