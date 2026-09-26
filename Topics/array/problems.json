@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:46:00.535Z",
+  "updatedAt": "2026-09-26T14:46:07.984Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2583,6 +2583,26 @@
           "path": "2845-count-of-interesting-subarrays/2845-count-of-interesting-subarrays.cpp",
           "sha": "6f345fe1c68e5e4638b985ed9b7a3f900da8cae5",
           "lastSyncedAt": "2026-09-26T14:41:07.568Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2874",
+      "title": "Maximum Value of an Ordered Triplet II",
+      "slug": "maximum-value-of-an-ordered-triplet-ii",
+      "problemName": "2874-maximum-value-of-an-ordered-triplet-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/",
+      "folderPath": "2874-maximum-value-of-an-ordered-triplet-ii/",
+      "readmePath": "2874-maximum-value-of-an-ordered-triplet-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2874-maximum-value-of-an-ordered-triplet-ii.cpp",
+          "path": "2874-maximum-value-of-an-ordered-triplet-ii/2874-maximum-value-of-an-ordered-triplet-ii.cpp",
+          "sha": "bf10444c5450db2d670af5f33d8ab51db8e2bd9c",
+          "lastSyncedAt": "2026-09-26T14:46:07.984Z"
         }
       ]
     },
