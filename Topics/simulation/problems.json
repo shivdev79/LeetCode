@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-26T15:13:09.462Z",
+  "updatedAt": "2026-09-26T15:14:53.731Z",
   "problems": [
     {
       "frontendId": "54",
@@ -42,7 +42,7 @@
           "filename": "0258-add-digits.cpp",
           "path": "0258-add-digits/0258-add-digits.cpp",
           "sha": "5140a2c0b77695cdbb1e63d208164151703034c6",
-          "lastSyncedAt": "2026-09-26T14:30:58.648Z"
+          "lastSyncedAt": "2026-09-26T15:14:53.731Z"
         }
       ]
     },
