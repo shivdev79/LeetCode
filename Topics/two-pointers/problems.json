@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-26T14:08:44.042Z",
+  "updatedAt": "2026-09-26T14:10:02.197Z",
   "problems": [
     {
       "frontendId": "11",
@@ -163,6 +163,26 @@
           "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.cpp",
           "sha": "0febc5cc3c2b7dfb15553e3b74f6fa498faea2a8",
           "lastSyncedAt": "2026-09-26T14:07:45.081Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2441",
+      "title": "Largest Positive Integer That Exists With Its Negative",
+      "slug": "largest-positive-integer-that-exists-with-its-negative",
+      "problemName": "2441-largest-positive-integer-that-exists-with-its-negative",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/",
+      "folderPath": "2441-largest-positive-integer-that-exists-with-its-negative/",
+      "readmePath": "2441-largest-positive-integer-that-exists-with-its-negative/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2441-largest-positive-integer-that-exists-with-its-negative.cpp",
+          "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
+          "sha": "2cea55eb0c5c57d59835112e96237a79f3858c8f",
+          "lastSyncedAt": "2026-09-26T14:10:02.197Z"
         }
       ]
     }
