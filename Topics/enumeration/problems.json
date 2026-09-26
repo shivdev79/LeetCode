@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-26T14:44:50.536Z",
+  "updatedAt": "2026-09-26T14:45:28.103Z",
   "problems": [
     {
       "frontendId": "1534",
@@ -23,6 +23,26 @@
           "path": "1534-count-good-triplets/1534-count-good-triplets.cpp",
           "sha": "e851b0bf745efca9f04174bfc2ea77e807b7eee5",
           "lastSyncedAt": "2026-09-26T14:43:50.713Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1863",
+      "title": "Sum of All Subset XOR Totals",
+      "slug": "sum-of-all-subset-xor-totals",
+      "problemName": "1863-sum-of-all-subset-xor-totals",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+      "folderPath": "1863-sum-of-all-subset-xor-totals/",
+      "readmePath": "1863-sum-of-all-subset-xor-totals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1863-sum-of-all-subset-xor-totals.cpp",
+          "path": "1863-sum-of-all-subset-xor-totals/1863-sum-of-all-subset-xor-totals.cpp",
+          "sha": "2ac012d612c1a25e73421cb46a83b4f0767ad845",
+          "lastSyncedAt": "2026-09-26T14:45:28.103Z"
         }
       ]
     },
