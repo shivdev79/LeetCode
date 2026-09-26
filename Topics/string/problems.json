@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T14:39:13.546Z",
+  "updatedAt": "2026-09-26T14:42:42.759Z",
   "problems": [
     {
       "frontendId": "3",
@@ -103,6 +103,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.cpp",
           "sha": "a2db1de588f40a960f49cfb213a95afc9662ca26",
           "lastSyncedAt": "2026-09-26T14:07:13.804Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "38",
+      "title": "Count and Say",
+      "slug": "count-and-say",
+      "problemName": "0038-count-and-say",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-and-say/",
+      "folderPath": "0038-count-and-say/",
+      "readmePath": "0038-count-and-say/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0038-count-and-say.cpp",
+          "path": "0038-count-and-say/0038-count-and-say.cpp",
+          "sha": "09ef076672a8c4eddb9e61b63b7902e18227d18e",
+          "lastSyncedAt": "2026-09-26T14:42:42.759Z"
         }
       ]
     },
