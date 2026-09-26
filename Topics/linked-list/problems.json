@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-26T14:35:44.728Z",
+  "updatedAt": "2026-09-26T14:35:49.069Z",
   "problems": [
     {
       "frontendId": "2",
@@ -103,6 +103,26 @@
           "path": "0061-rotate-list/0061-rotate-list.cpp",
           "sha": "05731c49eb0c10da31322b65d488e3cd9c3f49bd",
           "lastSyncedAt": "2026-09-26T14:07:51.021Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "82",
+      "title": "Remove Duplicates from Sorted List II",
+      "slug": "remove-duplicates-from-sorted-list-ii",
+      "problemName": "0082-remove-duplicates-from-sorted-list-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+      "folderPath": "0082-remove-duplicates-from-sorted-list-ii/",
+      "readmePath": "0082-remove-duplicates-from-sorted-list-ii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0082-remove-duplicates-from-sorted-list-ii.cpp",
+          "path": "0082-remove-duplicates-from-sorted-list-ii/0082-remove-duplicates-from-sorted-list-ii.cpp",
+          "sha": "e586c47224c999a29455306554e1ce39420b71ae",
+          "lastSyncedAt": "2026-09-26T14:35:49.069Z"
         }
       ]
     },
