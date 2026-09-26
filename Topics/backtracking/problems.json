@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-26T14:22:01.449Z",
+  "updatedAt": "2026-09-26T14:24:14.757Z",
   "problems": [
     {
       "frontendId": "22",
@@ -43,6 +43,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.cpp",
           "sha": "2a570ec266f74ce60d2eb370e784c8bb618479fe",
           "lastSyncedAt": "2026-09-26T14:06:46.387Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "0257-binary-tree-paths/",
+      "readmePath": "0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0257-binary-tree-paths.cpp",
+          "path": "0257-binary-tree-paths/0257-binary-tree-paths.cpp",
+          "sha": "cb263e7c27cd320453c2c5bd290141ed4517630e",
+          "lastSyncedAt": "2026-09-26T14:24:14.757Z"
         }
       ]
     },
