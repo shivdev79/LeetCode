@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-26T15:17:04.958Z",
+  "updatedAt": "2026-09-26T15:19:45.096Z",
   "problems": [
     {
       "frontendId": "22",
@@ -362,7 +362,7 @@
           "filename": "0790-domino-and-tromino-tiling.cpp",
           "path": "0790-domino-and-tromino-tiling/0790-domino-and-tromino-tiling.cpp",
           "sha": "835d82ee5f18436122d4ca770a68e0dd079d3085",
-          "lastSyncedAt": "2026-09-26T14:37:48.928Z"
+          "lastSyncedAt": "2026-09-26T15:19:45.096Z"
         }
       ]
     },
