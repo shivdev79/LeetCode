@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-26T14:19:32.534Z",
+  "updatedAt": "2026-09-26T14:19:42.218Z",
   "problems": [
     {
       "frontendId": "104",
@@ -183,6 +183,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "sha": "d7681643772e6bf71c8b69ea9649d0d7547752d5",
           "lastSyncedAt": "2026-09-26T14:18:38.996Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1305",
+      "title": "All Elements in Two Binary Search Trees",
+      "slug": "all-elements-in-two-binary-search-trees",
+      "problemName": "1305-all-elements-in-two-binary-search-trees",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/all-elements-in-two-binary-search-trees/",
+      "folderPath": "1305-all-elements-in-two-binary-search-trees/",
+      "readmePath": "1305-all-elements-in-two-binary-search-trees/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1305-all-elements-in-two-binary-search-trees.cpp",
+          "path": "1305-all-elements-in-two-binary-search-trees/1305-all-elements-in-two-binary-search-trees.cpp",
+          "sha": "ddda63b66789458c43e055fdea0d1801ac44273f",
+          "lastSyncedAt": "2026-09-26T14:19:42.218Z"
         }
       ]
     }
