@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-26T14:31:14.586Z",
+  "updatedAt": "2026-09-26T14:31:19.051Z",
   "problems": [
     {
       "frontendId": "2",
@@ -223,6 +223,26 @@
           "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.cpp",
           "sha": "586b291f7886168a82c954c83c60050b85fa915d",
           "lastSyncedAt": "2026-09-26T14:08:59.604Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "1486-xor-operation-in-an-array/",
+      "readmePath": "1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1486-xor-operation-in-an-array.cpp",
+          "path": "1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
+          "sha": "f6247a25a9c5bc62dabe36fe97afc6c08be31c45",
+          "lastSyncedAt": "2026-09-26T14:31:19.051Z"
         }
       ]
     },
