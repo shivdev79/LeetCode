@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:10:02.197Z",
+  "updatedAt": "2026-09-26T14:10:10.607Z",
   "problems": [
     {
       "frontendId": "11",
@@ -423,6 +423,26 @@
           "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
           "sha": "2cea55eb0c5c57d59835112e96237a79f3858c8f",
           "lastSyncedAt": "2026-09-26T14:10:02.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2455",
+      "title": "Average Value of Even Numbers That Are Divisible by Three",
+      "slug": "average-value-of-even-numbers-that-are-divisible-by-three",
+      "problemName": "2455-average-value-of-even-numbers-that-are-divisible-by-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/",
+      "folderPath": "2455-average-value-of-even-numbers-that-are-divisible-by-three/",
+      "readmePath": "2455-average-value-of-even-numbers-that-are-divisible-by-three/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2455-average-value-of-even-numbers-that-are-divisible-by-three.cpp",
+          "path": "2455-average-value-of-even-numbers-that-are-divisible-by-three/2455-average-value-of-even-numbers-that-are-divisible-by-three.cpp",
+          "sha": "94383d5d638db4d6f29b62a24aac80129264e4e6",
+          "lastSyncedAt": "2026-09-26T14:10:10.607Z"
         }
       ]
     },
