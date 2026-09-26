@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-26T14:21:35.670Z",
+  "updatedAt": "2026-09-26T14:21:43.556Z",
   "problems": [
     {
       "frontendId": "98",
@@ -243,6 +243,26 @@
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.cpp",
           "sha": "d4325962b233bc1f2015bd586c86ea21c95da40b",
           "lastSyncedAt": "2026-09-26T14:20:27.635Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "0700-search-in-a-binary-search-tree/",
+      "readmePath": "0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0700-search-in-a-binary-search-tree.cpp",
+          "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.cpp",
+          "sha": "093275aeb566e2ce806994a9cfc7a83b4a7ca12e",
+          "lastSyncedAt": "2026-09-26T14:21:43.556Z"
         }
       ]
     },
