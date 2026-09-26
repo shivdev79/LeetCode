@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:26:06.884Z",
+  "updatedAt": "2026-09-26T15:26:10.181Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2482,7 +2482,7 @@
           "filename": "2206-divide-array-into-equal-pairs.cpp",
           "path": "2206-divide-array-into-equal-pairs/2206-divide-array-into-equal-pairs.cpp",
           "sha": "b5d787a3f16c8827cca6d32efe1ef2c5fb5feef4",
-          "lastSyncedAt": "2026-09-26T14:46:57.347Z"
+          "lastSyncedAt": "2026-09-26T15:26:10.181Z"
         }
       ]
     },
