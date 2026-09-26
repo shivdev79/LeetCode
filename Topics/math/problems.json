@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-26T14:41:47.618Z",
+  "updatedAt": "2026-09-26T14:42:15.296Z",
   "problems": [
     {
       "frontendId": "2",
@@ -303,6 +303,26 @@
           "path": "0633-sum-of-square-numbers/0633-sum-of-square-numbers.cpp",
           "sha": "c328db11def3e7526cdf8a1f88a17ef1c29047cc",
           "lastSyncedAt": "2026-09-26T14:31:06.688Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "781",
+      "title": "Rabbits in Forest",
+      "slug": "rabbits-in-forest",
+      "problemName": "0781-rabbits-in-forest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rabbits-in-forest/",
+      "folderPath": "0781-rabbits-in-forest/",
+      "readmePath": "0781-rabbits-in-forest/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0781-rabbits-in-forest.cpp",
+          "path": "0781-rabbits-in-forest/0781-rabbits-in-forest.cpp",
+          "sha": "7bb2f0c90dbcc705a3ba5f986fef633664a91f0d",
+          "lastSyncedAt": "2026-09-26T14:42:15.296Z"
         }
       ]
     },
