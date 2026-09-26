@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-26T15:12:14.575Z",
+  "updatedAt": "2026-09-26T15:13:44.908Z",
   "problems": [
     {
       "frontendId": "79",
@@ -242,7 +242,7 @@
           "filename": "0145-binary-tree-postorder-traversal.cpp",
           "path": "0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.cpp",
           "sha": "86938fd22b00edd24fca110e04745168cb572579",
-          "lastSyncedAt": "2026-09-26T14:29:18.436Z"
+          "lastSyncedAt": "2026-09-26T15:13:44.908Z"
         }
       ]
     },
