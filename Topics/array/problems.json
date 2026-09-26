@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:31:45.408Z",
+  "updatedAt": "2026-09-26T14:32:11.427Z",
   "problems": [
     {
       "frontendId": "11",
@@ -203,6 +203,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.cpp",
           "sha": "29f7de362f663ef6604178a3333ae0df3f7e7ce3",
           "lastSyncedAt": "2026-09-26T14:26:27.762Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0079-word-search.cpp",
+          "path": "0079-word-search/0079-word-search.cpp",
+          "sha": "48a69236b4b959ce319138386703d960acc976d7",
+          "lastSyncedAt": "2026-09-26T14:32:11.427Z"
         }
       ]
     },
