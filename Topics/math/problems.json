@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-26T15:22:31.672Z",
+  "updatedAt": "2026-09-26T15:22:37.309Z",
   "problems": [
     {
       "frontendId": "2",
@@ -562,7 +562,7 @@
           "filename": "2338-count-the-number-of-ideal-arrays.cpp",
           "path": "2338-count-the-number-of-ideal-arrays/2338-count-the-number-of-ideal-arrays.cpp",
           "sha": "cf6aa09ff0786f86e7171bdba264fc2becc1d1eb",
-          "lastSyncedAt": "2026-09-26T14:41:47.618Z"
+          "lastSyncedAt": "2026-09-26T15:22:37.309Z"
         }
       ]
     },
