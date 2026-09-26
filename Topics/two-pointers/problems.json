@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-26T14:38:50.667Z",
+  "updatedAt": "2026-09-26T14:39:02.282Z",
   "problems": [
     {
       "frontendId": "11",
@@ -363,6 +363,26 @@
           "path": "0344-reverse-string/0344-reverse-string.cpp",
           "sha": "c9340c260d57d6fc2fe4cdac8da065cafcc96092",
           "lastSyncedAt": "2026-09-26T14:35:12.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0349-intersection-of-two-arrays.cpp",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.cpp",
+          "sha": "e279a5026221299c75c9b9ad32dca9477a494941",
+          "lastSyncedAt": "2026-09-26T14:39:02.282Z"
         }
       ]
     },
