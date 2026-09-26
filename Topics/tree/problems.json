@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-26T15:06:41.151Z",
+  "updatedAt": "2026-09-26T15:06:50.339Z",
   "problems": [
     {
       "frontendId": "94",
@@ -642,7 +642,7 @@
           "filename": "0653-two-sum-iv-input-is-a-bst.cpp",
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.cpp",
           "sha": "d4325962b233bc1f2015bd586c86ea21c95da40b",
-          "lastSyncedAt": "2026-09-26T14:20:27.635Z"
+          "lastSyncedAt": "2026-09-26T15:06:50.339Z"
         }
       ]
     },
