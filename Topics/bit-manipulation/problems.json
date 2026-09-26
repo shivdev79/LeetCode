@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-26T14:18:34.661Z",
+  "updatedAt": "2026-09-26T14:21:56.639Z",
   "problems": [
     {
       "frontendId": "136",
@@ -63,6 +63,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.cpp",
           "sha": "21df50b603539296b5e22b79a8f22ba24fa06789",
           "lastSyncedAt": "2026-09-26T14:08:44.042Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "693",
+      "title": "Binary Number with Alternating Bits",
+      "slug": "binary-number-with-alternating-bits",
+      "problemName": "0693-binary-number-with-alternating-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+      "folderPath": "0693-binary-number-with-alternating-bits/",
+      "readmePath": "0693-binary-number-with-alternating-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0693-binary-number-with-alternating-bits.cpp",
+          "path": "0693-binary-number-with-alternating-bits/0693-binary-number-with-alternating-bits.cpp",
+          "sha": "367fde04100c438127ce0d3b55c4f2f134ad1b17",
+          "lastSyncedAt": "2026-09-26T14:21:56.639Z"
         }
       ]
     },
