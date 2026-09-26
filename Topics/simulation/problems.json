@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-26T15:14:53.731Z",
+  "updatedAt": "2026-09-26T15:19:47.592Z",
   "problems": [
     {
       "frontendId": "54",
@@ -102,7 +102,7 @@
           "filename": "1920-build-array-from-permutation.cpp",
           "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
           "sha": "dc2c2d326e6b5aae575f9276b8ee5ee800248c7f",
-          "lastSyncedAt": "2026-09-26T14:37:53.851Z"
+          "lastSyncedAt": "2026-09-26T15:19:47.592Z"
         }
       ]
     },
