@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:40:44.430Z",
+  "updatedAt": "2026-09-26T14:40:52.196Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2003,6 +2003,26 @@
           "path": "2441-largest-positive-integer-that-exists-with-its-negative/2441-largest-positive-integer-that-exists-with-its-negative.cpp",
           "sha": "2cea55eb0c5c57d59835112e96237a79f3858c8f",
           "lastSyncedAt": "2026-09-26T14:10:02.197Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2444",
+      "title": "Count Subarrays With Fixed Bounds",
+      "slug": "count-subarrays-with-fixed-bounds",
+      "problemName": "2444-count-subarrays-with-fixed-bounds",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-fixed-bounds/",
+      "folderPath": "2444-count-subarrays-with-fixed-bounds/",
+      "readmePath": "2444-count-subarrays-with-fixed-bounds/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2444-count-subarrays-with-fixed-bounds.cpp",
+          "path": "2444-count-subarrays-with-fixed-bounds/2444-count-subarrays-with-fixed-bounds.cpp",
+          "sha": "9aee5587901b005c86c19cb2db0a61e9e97ee30f",
+          "lastSyncedAt": "2026-09-26T14:40:52.196Z"
         }
       ]
     },
