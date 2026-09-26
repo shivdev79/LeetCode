@@ -4,7 +4,7 @@
     "slug": "dp-on-trees",
     "name": "DP on Trees"
   },
-  "updatedAt": "2026-09-26T14:27:10.111Z",
+  "updatedAt": "2026-09-26T14:45:41.481Z",
   "problems": [
     {
       "frontendId": "124",
@@ -63,6 +63,26 @@
           "path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.cpp",
           "sha": "85ec95e346b81833a2cede56946ea04f523780aa",
           "lastSyncedAt": "2026-09-26T14:25:48.999Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1123",
+      "title": "Lowest Common Ancestor of Deepest Leaves",
+      "slug": "lowest-common-ancestor-of-deepest-leaves",
+      "problemName": "1123-lowest-common-ancestor-of-deepest-leaves",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/",
+      "folderPath": "1123-lowest-common-ancestor-of-deepest-leaves/",
+      "readmePath": "1123-lowest-common-ancestor-of-deepest-leaves/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1123-lowest-common-ancestor-of-deepest-leaves.cpp",
+          "path": "1123-lowest-common-ancestor-of-deepest-leaves/1123-lowest-common-ancestor-of-deepest-leaves.cpp",
+          "sha": "e24eeefe14990b675f971cab882f9c53936e2821",
+          "lastSyncedAt": "2026-09-26T14:45:41.481Z"
         }
       ]
     },
