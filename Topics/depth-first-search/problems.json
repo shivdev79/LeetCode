@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-26T14:24:14.757Z",
+  "updatedAt": "2026-09-26T14:24:25.445Z",
   "problems": [
     {
       "frontendId": "98",
@@ -263,6 +263,26 @@
           "path": "0404-sum-of-left-leaves/0404-sum-of-left-leaves.cpp",
           "sha": "3a079fc4b2bbb697dbefe02bce3e612a9ea1269b",
           "lastSyncedAt": "2026-09-26T14:23:57.667Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "437",
+      "title": "Path Sum III",
+      "slug": "path-sum-iii",
+      "problemName": "0437-path-sum-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-iii/",
+      "folderPath": "0437-path-sum-iii/",
+      "readmePath": "0437-path-sum-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0437-path-sum-iii.cpp",
+          "path": "0437-path-sum-iii/0437-path-sum-iii.cpp",
+          "sha": "c688f72cfcf7c6ff8db509dfb5f3b857d0556258",
+          "lastSyncedAt": "2026-09-26T14:24:25.445Z"
         }
       ]
     },
