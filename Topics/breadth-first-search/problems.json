@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-26T15:00:30.849Z",
+  "updatedAt": "2026-09-26T15:00:37.194Z",
   "problems": [
     {
       "frontendId": "100",
@@ -562,7 +562,7 @@
           "filename": "1971-find-if-path-exists-in-graph.cpp",
           "path": "1971-find-if-path-exists-in-graph/1971-find-if-path-exists-in-graph.cpp",
           "sha": "858c7a4931947639f64bccd582af2b432b1ca949",
-          "lastSyncedAt": "2026-09-26T14:13:05.250Z"
+          "lastSyncedAt": "2026-09-26T15:00:37.194Z"
         }
       ]
     },
