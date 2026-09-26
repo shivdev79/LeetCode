@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:36:58.530Z",
+  "updatedAt": "2026-09-26T14:37:10.998Z",
   "problems": [
     {
       "frontendId": "4",
@@ -1603,6 +1603,26 @@
           "path": "2455-average-value-of-even-numbers-that-are-divisible-by-three/2455-average-value-of-even-numbers-that-are-divisible-by-three.cpp",
           "sha": "94383d5d638db4d6f29b62a24aac80129264e4e6",
           "lastSyncedAt": "2026-09-26T14:10:10.607Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2529",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "slug": "maximum-count-of-positive-integer-and-negative-integer",
+      "problemName": "2529-maximum-count-of-positive-integer-and-negative-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/",
+      "folderPath": "2529-maximum-count-of-positive-integer-and-negative-integer/",
+      "readmePath": "2529-maximum-count-of-positive-integer-and-negative-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
+          "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.cpp",
+          "sha": "0f3b431716b4c00e3c6dfc0464596eab4da9835e",
+          "lastSyncedAt": "2026-09-26T14:37:10.998Z"
         }
       ]
     },
