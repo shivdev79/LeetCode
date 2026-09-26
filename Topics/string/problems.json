@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T14:14:28.682Z",
+  "updatedAt": "2026-09-26T14:14:35.907Z",
   "problems": [
     {
       "frontendId": "22",
@@ -83,6 +83,26 @@
           "path": "0796-rotate-string/0796-rotate-string.cpp",
           "sha": "7db96be6404479fcc9debc5ee4500eb91693f5e3",
           "lastSyncedAt": "2026-09-26T14:14:11.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1446",
+      "title": "Consecutive Characters",
+      "slug": "consecutive-characters",
+      "problemName": "1446-consecutive-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/consecutive-characters/",
+      "folderPath": "1446-consecutive-characters/",
+      "readmePath": "1446-consecutive-characters/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1446-consecutive-characters.cpp",
+          "path": "1446-consecutive-characters/1446-consecutive-characters.cpp",
+          "sha": "9065fffe858492a31fdc585e0cd3287bf54ab64b",
+          "lastSyncedAt": "2026-09-26T14:14:35.907Z"
         }
       ]
     },
