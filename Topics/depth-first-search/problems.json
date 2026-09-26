@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-26T14:24:42.750Z",
+  "updatedAt": "2026-09-26T14:25:05.438Z",
   "problems": [
     {
       "frontendId": "98",
@@ -363,6 +363,26 @@
           "path": "0547-number-of-provinces/0547-number-of-provinces.cpp",
           "sha": "a221e7fe5a1876bbdd8776a6a1e18531e7ccfb5d",
           "lastSyncedAt": "2026-09-26T14:14:02.821Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "637",
+      "title": "Average of Levels in Binary Tree",
+      "slug": "average-of-levels-in-binary-tree",
+      "problemName": "0637-average-of-levels-in-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-of-levels-in-binary-tree/",
+      "folderPath": "0637-average-of-levels-in-binary-tree/",
+      "readmePath": "0637-average-of-levels-in-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0637-average-of-levels-in-binary-tree.cpp",
+          "path": "0637-average-of-levels-in-binary-tree/0637-average-of-levels-in-binary-tree.cpp",
+          "sha": "079eceab511664683cc493d3fea54eec0afbd4d1",
+          "lastSyncedAt": "2026-09-26T14:25:05.438Z"
         }
       ]
     },
