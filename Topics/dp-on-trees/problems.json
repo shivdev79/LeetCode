@@ -4,7 +4,7 @@
     "slug": "dp-on-trees",
     "name": "DP on Trees"
   },
-  "updatedAt": "2026-09-26T14:45:41.481Z",
+  "updatedAt": "2026-09-26T15:02:39.332Z",
   "problems": [
     {
       "frontendId": "124",
@@ -22,7 +22,7 @@
           "filename": "0124-binary-tree-maximum-path-sum.cpp",
           "path": "0124-binary-tree-maximum-path-sum/0124-binary-tree-maximum-path-sum.cpp",
           "sha": "d64ed501c61cad539f14ed3cd9470c372aae1f10",
-          "lastSyncedAt": "2026-09-26T14:15:22.216Z"
+          "lastSyncedAt": "2026-09-26T15:02:39.332Z"
         }
       ]
     },
