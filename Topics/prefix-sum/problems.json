@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-26T15:22:51.851Z",
+  "updatedAt": "2026-09-26T15:25:37.155Z",
   "problems": [
     {
       "frontendId": "238",
@@ -222,7 +222,7 @@
           "filename": "2874-maximum-value-of-an-ordered-triplet-ii.cpp",
           "path": "2874-maximum-value-of-an-ordered-triplet-ii/2874-maximum-value-of-an-ordered-triplet-ii.cpp",
           "sha": "bf10444c5450db2d670af5f33d8ab51db8e2bd9c",
-          "lastSyncedAt": "2026-09-26T14:46:07.984Z"
+          "lastSyncedAt": "2026-09-26T15:25:37.155Z"
         }
       ]
     }
