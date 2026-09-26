@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-09-26T14:18:38.996Z",
+  "updatedAt": "2026-09-26T14:26:35.959Z",
   "problems": [
     {
       "frontendId": "42",
@@ -83,6 +83,26 @@
           "path": "1475-final-prices-with-a-special-discount-in-a-shop/1475-final-prices-with-a-special-discount-in-a-shop.cpp",
           "sha": "8b3f307bbe0d9666ac7f7076e619988a85b0c55f",
           "lastSyncedAt": "2026-09-26T14:07:37.384Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2487",
+      "title": "Remove Nodes From Linked List",
+      "slug": "remove-nodes-from-linked-list",
+      "problemName": "2487-remove-nodes-from-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+      "folderPath": "2487-remove-nodes-from-linked-list/",
+      "readmePath": "2487-remove-nodes-from-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2487-remove-nodes-from-linked-list.cpp",
+          "path": "2487-remove-nodes-from-linked-list/2487-remove-nodes-from-linked-list.cpp",
+          "sha": "0c27d45fc478d859128bf14f1a9a2d28806de053",
+          "lastSyncedAt": "2026-09-26T14:26:35.959Z"
         }
       ]
     }
