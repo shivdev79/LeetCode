@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:37:26.972Z",
+  "updatedAt": "2026-09-26T14:37:33.166Z",
   "problems": [
     {
       "frontendId": "4",
@@ -43,6 +43,26 @@
           "path": "0011-container-with-most-water/0011-container-with-most-water.cpp",
           "sha": "1ba3d4e4d03664a044a9e89dcfbcc1af0ed38ed5",
           "lastSyncedAt": "2026-09-26T14:08:28.867Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "0016-3sum-closest/",
+      "readmePath": "0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0016-3sum-closest.cpp",
+          "path": "0016-3sum-closest/0016-3sum-closest.cpp",
+          "sha": "5ec6b2d37a68ec3535fb406cb3bacefd33d3e322",
+          "lastSyncedAt": "2026-09-26T14:37:33.166Z"
         }
       ]
     },
