@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-26T14:30:58.648Z",
+  "updatedAt": "2026-09-26T14:37:53.851Z",
   "problems": [
     {
       "frontendId": "258",
@@ -63,6 +63,26 @@
           "path": "1545-find-kth-bit-in-nth-binary-string/1545-find-kth-bit-in-nth-binary-string.cpp",
           "sha": "d7d5bf7d0645450d1c75eeca40ddaacd9b14b7ab",
           "lastSyncedAt": "2026-09-26T14:21:05.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1920-build-array-from-permutation.cpp",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.cpp",
+          "sha": "dc2c2d326e6b5aae575f9276b8ee5ee800248c7f",
+          "lastSyncedAt": "2026-09-26T14:37:53.851Z"
         }
       ]
     },
