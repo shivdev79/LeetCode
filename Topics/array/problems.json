@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:12:58.533Z",
+  "updatedAt": "2026-09-26T14:13:30.520Z",
   "problems": [
     {
       "frontendId": "11",
@@ -263,6 +263,26 @@
           "path": "0213-house-robber-ii/0213-house-robber-ii.cpp",
           "sha": "eaefe56de3a679b5f846b47d5c89b65aa6430e39",
           "lastSyncedAt": "2026-09-26T14:09:40.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0217-contains-duplicate.cpp",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.cpp",
+          "sha": "36df3d69d3916caeabef12168201227abc73cc4e",
+          "lastSyncedAt": "2026-09-26T14:13:30.520Z"
         }
       ]
     },
