@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-26T14:25:58.780Z",
+  "updatedAt": "2026-09-26T14:27:10.111Z",
   "problems": [
     {
       "frontendId": "22",
@@ -183,6 +183,26 @@
           "path": "0213-house-robber-ii/0213-house-robber-ii.cpp",
           "sha": "eaefe56de3a679b5f846b47d5c89b65aa6430e39",
           "lastSyncedAt": "2026-09-26T14:09:40.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "337",
+      "title": "House Robber III",
+      "slug": "house-robber-iii",
+      "problemName": "0337-house-robber-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/house-robber-iii/",
+      "folderPath": "0337-house-robber-iii/",
+      "readmePath": "0337-house-robber-iii/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0337-house-robber-iii.cpp",
+          "path": "0337-house-robber-iii/0337-house-robber-iii.cpp",
+          "sha": "eedfb575bb851cbd2b63998a9c3e116a1be78e65",
+          "lastSyncedAt": "2026-09-26T14:27:10.111Z"
         }
       ]
     },
