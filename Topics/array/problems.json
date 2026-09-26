@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:04:30.395Z",
+  "updatedAt": "2026-09-26T15:04:36.958Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1782,7 +1782,7 @@
           "filename": "1004-max-consecutive-ones-iii.cpp",
           "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.cpp",
           "sha": "88a2070bfe406c2695bdb7c873e24499214f3c8e",
-          "lastSyncedAt": "2026-09-26T14:17:43.375Z"
+          "lastSyncedAt": "2026-09-26T15:04:36.958Z"
         }
       ]
     },
