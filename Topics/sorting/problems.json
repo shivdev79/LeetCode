@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-26T14:26:20.042Z",
+  "updatedAt": "2026-09-26T14:31:25.926Z",
   "problems": [
     {
       "frontendId": "49",
@@ -123,6 +123,26 @@
           "path": "0268-missing-number/0268-missing-number.cpp",
           "sha": "050707f712a22d519eaea26c92d00415aae484ed",
           "lastSyncedAt": "2026-09-26T14:13:37.766Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "0389-find-the-difference/",
+      "readmePath": "0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0389-find-the-difference.cpp",
+          "path": "0389-find-the-difference/0389-find-the-difference.cpp",
+          "sha": "1c3afb3ba5ca799af2f18f6c70433ad0f6b3b4b6",
+          "lastSyncedAt": "2026-09-26T14:31:25.926Z"
         }
       ]
     },
