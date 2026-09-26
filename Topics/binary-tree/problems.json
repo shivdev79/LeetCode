@@ -4,8 +4,28 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-26T14:20:54.489Z",
+  "updatedAt": "2026-09-26T14:21:13.781Z",
   "problems": [
+    {
+      "frontendId": "98",
+      "title": "Validate Binary Search Tree",
+      "slug": "validate-binary-search-tree",
+      "problemName": "0098-validate-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "folderPath": "0098-validate-binary-search-tree/",
+      "readmePath": "0098-validate-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0098-validate-binary-search-tree.cpp",
+          "path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.cpp",
+          "sha": "ef68f9e19dab7ced7d409b2fb6a57c5e807c1abd",
+          "lastSyncedAt": "2026-09-26T14:21:13.781Z"
+        }
+      ]
+    },
     {
       "frontendId": "104",
       "title": "Maximum Depth of Binary Tree",
