@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:44:20.684Z",
+  "updatedAt": "2026-09-26T14:44:37.021Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1343,6 +1343,26 @@
           "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.cpp",
           "sha": "1be87662473ad40368c816a3d0dff324f1272397",
           "lastSyncedAt": "2026-09-26T14:19:12.159Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0704-binary-search.cpp",
+          "path": "0704-binary-search/0704-binary-search.cpp",
+          "sha": "3650cea2d1f93d318d4d49a1a6a7073d9c8b449f",
+          "lastSyncedAt": "2026-09-26T14:44:37.021Z"
         }
       ]
     },
