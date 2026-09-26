@@ -4,8 +4,28 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-26T14:11:41.498Z",
+  "updatedAt": "2026-09-26T14:30:58.648Z",
   "problems": [
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0258-add-digits.cpp",
+          "path": "0258-add-digits/0258-add-digits.cpp",
+          "sha": "5140a2c0b77695cdbb1e63d208164151703034c6",
+          "lastSyncedAt": "2026-09-26T14:30:58.648Z"
+        }
+      ]
+    },
     {
       "frontendId": "3591",
       "title": "Check if Any Element Has Prime Frequency",
