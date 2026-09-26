@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-26T14:11:22.373Z",
+  "updatedAt": "2026-09-26T14:11:28.720Z",
   "problems": [
     {
       "frontendId": "1748",
@@ -23,6 +23,26 @@
           "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.cpp",
           "sha": "7410de73a40c94c538a52dca32f52a0efc834523",
           "lastSyncedAt": "2026-09-26T14:10:29.920Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3866",
+      "title": "First Unique Even Element",
+      "slug": "first-unique-even-element",
+      "problemName": "3866-first-unique-even-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-even-element/",
+      "folderPath": "3866-first-unique-even-element/",
+      "readmePath": "3866-first-unique-even-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3866-first-unique-even-element.cpp",
+          "path": "3866-first-unique-even-element/3866-first-unique-even-element.cpp",
+          "sha": "1f94148831ec32accb21a9dc72c39d615b3edad7",
+          "lastSyncedAt": "2026-09-26T14:11:28.720Z"
         }
       ]
     },
