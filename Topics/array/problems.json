@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:24:42.398Z",
+  "updatedAt": "2026-09-26T15:24:54.615Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2942,7 +2942,7 @@
           "filename": "3375-minimum-operations-to-make-array-values-equal-to-k.cpp",
           "path": "3375-minimum-operations-to-make-array-values-equal-to-k/3375-minimum-operations-to-make-array-values-equal-to-k.cpp",
           "sha": "612f1201c6fcbc7dbea687c8848f38f8b311820f",
-          "lastSyncedAt": "2026-09-26T14:45:14.071Z"
+          "lastSyncedAt": "2026-09-26T15:24:54.615Z"
         }
       ]
     },
