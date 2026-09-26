@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "shortest-path",
+    "name": "Shortest Path"
+  },
+  "updatedAt": "2026-09-26T14:24:33.490Z",
+  "problems": [
+    {
+      "frontendId": "3650",
+      "title": "Minimum Cost Path with Edge Reversals",
+      "slug": "minimum-cost-path-with-edge-reversals",
+      "problemName": "3650-minimum-cost-path-with-edge-reversals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/",
+      "folderPath": "3650-minimum-cost-path-with-edge-reversals/",
+      "readmePath": "3650-minimum-cost-path-with-edge-reversals/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3650-minimum-cost-path-with-edge-reversals.cpp",
+          "path": "3650-minimum-cost-path-with-edge-reversals/3650-minimum-cost-path-with-edge-reversals.cpp",
+          "sha": "688d48df63c5c3f051c21bdd7d2d2dc10e811eb7",
+          "lastSyncedAt": "2026-09-26T14:24:33.490Z"
+        }
+      ]
+    }
+  ]
+}
