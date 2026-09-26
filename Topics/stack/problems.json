@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-26T14:26:35.959Z",
+  "updatedAt": "2026-09-26T14:26:45.779Z",
   "problems": [
     {
       "frontendId": "42",
@@ -43,6 +43,26 @@
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.cpp",
           "sha": "923f41fc63ebfc28d05defddfa065cd804315602",
           "lastSyncedAt": "2026-09-26T14:07:24.487Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "problemName": "0232-implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "folderPath": "0232-implement-queue-using-stacks/",
+      "readmePath": "0232-implement-queue-using-stacks/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0232-implement-queue-using-stacks.cpp",
+          "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.cpp",
+          "sha": "eb5127d54ae3aba42ebaa947d28760e79f33cc24",
+          "lastSyncedAt": "2026-09-26T14:26:45.779Z"
         }
       ]
     },
