@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-26T15:20:37.401Z",
+  "updatedAt": "2026-09-26T15:20:54.381Z",
   "problems": [
     {
       "frontendId": "1",
@@ -602,7 +602,7 @@
           "filename": "0560-subarray-sum-equals-k.cpp",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.cpp",
           "sha": "c6ad3c4961e50cc5f930833d0f2fe70669ea0a80",
-          "lastSyncedAt": "2026-09-26T14:39:21.088Z"
+          "lastSyncedAt": "2026-09-26T15:20:54.381Z"
         }
       ]
     },
