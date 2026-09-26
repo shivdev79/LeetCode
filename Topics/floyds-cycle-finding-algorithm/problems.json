@@ -4,7 +4,7 @@
     "slug": "floyds-cycle-finding-algorithm",
     "name": "Floyd's Cycle Finding Algorithm"
   },
-  "updatedAt": "2026-09-26T14:55:24.460Z",
+  "updatedAt": "2026-09-26T14:56:55.786Z",
   "problems": [
     {
       "frontendId": "141",
@@ -22,7 +22,7 @@
           "filename": "0141-linked-list-cycle.cpp",
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.cpp",
           "sha": "a0efce5dd8a61e45727f7b6bdac09c3c33660285",
-          "lastSyncedAt": "2026-09-26T14:07:57.050Z"
+          "lastSyncedAt": "2026-09-26T14:56:55.786Z"
         }
       ]
     },
