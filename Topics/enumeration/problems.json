@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-26T14:44:26.882Z",
+  "updatedAt": "2026-09-26T14:44:50.536Z",
   "problems": [
     {
       "frontendId": "1534",
@@ -23,6 +23,26 @@
           "path": "1534-count-good-triplets/1534-count-good-triplets.cpp",
           "sha": "e851b0bf745efca9f04174bfc2ea77e807b7eee5",
           "lastSyncedAt": "2026-09-26T14:43:50.713Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2843",
+      "title": "  Count Symmetric Integers",
+      "slug": "count-symmetric-integers",
+      "problemName": "2843-count-symmetric-integers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-symmetric-integers/",
+      "folderPath": "2843-count-symmetric-integers/",
+      "readmePath": "2843-count-symmetric-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2843-count-symmetric-integers.cpp",
+          "path": "2843-count-symmetric-integers/2843-count-symmetric-integers.cpp",
+          "sha": "a23e3da84fbdc2ead5ae28c9a3ed16fd03af4fc0",
+          "lastSyncedAt": "2026-09-26T14:44:50.536Z"
         }
       ]
     },
