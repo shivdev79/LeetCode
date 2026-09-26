@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-26T14:11:04.449Z",
+  "updatedAt": "2026-09-26T14:11:35.608Z",
   "problems": [
     {
       "frontendId": "867",
@@ -43,6 +43,26 @@
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.cpp",
           "sha": "4a9d4c8105a13e38902ea3a5fcfcc1d0f9af2526",
           "lastSyncedAt": "2026-09-26T14:11:04.449Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3701",
+      "title": "Compute Alternating Sum",
+      "slug": "compute-alternating-sum",
+      "problemName": "3701-compute-alternating-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/compute-alternating-sum/",
+      "folderPath": "3701-compute-alternating-sum/",
+      "readmePath": "3701-compute-alternating-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3701-compute-alternating-sum.cpp",
+          "path": "3701-compute-alternating-sum/3701-compute-alternating-sum.cpp",
+          "sha": "9fe305f2733580da1ff0e11226fd1819fee329fa",
+          "lastSyncedAt": "2026-09-26T14:11:35.608Z"
         }
       ]
     }
