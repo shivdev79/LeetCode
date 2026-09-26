@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-26T14:27:10.111Z",
+  "updatedAt": "2026-09-26T14:27:45.441Z",
   "problems": [
     {
       "frontendId": "22",
@@ -263,6 +263,26 @@
           "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.cpp",
           "sha": "536ce92a9ae94e8486e82cc74e97b3dcf38fb97c",
           "lastSyncedAt": "2026-09-26T14:09:29.449Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1334",
+      "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+      "slug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "problemName": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "folderPath": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "readmePath": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
+          "path": "1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.cpp",
+          "sha": "e7d0eb31e4ffc68622dd108fbec6d7cb202e48c6",
+          "lastSyncedAt": "2026-09-26T14:27:45.441Z"
         }
       ]
     },
