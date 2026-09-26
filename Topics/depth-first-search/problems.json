@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-26T14:23:23.305Z",
+  "updatedAt": "2026-09-26T14:23:33.600Z",
   "problems": [
     {
       "frontendId": "98",
@@ -243,6 +243,26 @@
           "path": "0653-two-sum-iv-input-is-a-bst/0653-two-sum-iv-input-is-a-bst.cpp",
           "sha": "d4325962b233bc1f2015bd586c86ea21c95da40b",
           "lastSyncedAt": "2026-09-26T14:20:27.635Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "671",
+      "title": "Second Minimum Node In a Binary Tree",
+      "slug": "second-minimum-node-in-a-binary-tree",
+      "problemName": "0671-second-minimum-node-in-a-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/",
+      "folderPath": "0671-second-minimum-node-in-a-binary-tree/",
+      "readmePath": "0671-second-minimum-node-in-a-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0671-second-minimum-node-in-a-binary-tree.cpp",
+          "path": "0671-second-minimum-node-in-a-binary-tree/0671-second-minimum-node-in-a-binary-tree.cpp",
+          "sha": "5b564fd4a1be8b9b1e21199e2edb303141fdd9f9",
+          "lastSyncedAt": "2026-09-26T14:23:33.600Z"
         }
       ]
     },
