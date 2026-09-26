@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T15:22:19.479Z",
+  "updatedAt": "2026-09-26T15:22:47.640Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2122,7 +2122,7 @@
           "filename": "1718-construct-the-lexicographically-largest-valid-sequence.cpp",
           "path": "1718-construct-the-lexicographically-largest-valid-sequence/1718-construct-the-lexicographically-largest-valid-sequence.cpp",
           "sha": "fc15817e8d1298bc28a1dfbafc61fd008671aa63",
-          "lastSyncedAt": "2026-09-26T14:42:02.080Z"
+          "lastSyncedAt": "2026-09-26T15:22:47.640Z"
         }
       ]
     },
