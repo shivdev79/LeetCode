@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-26T14:37:42.085Z",
+  "updatedAt": "2026-09-26T14:38:27.610Z",
   "problems": [
     {
       "frontendId": "16",
@@ -263,6 +263,26 @@
           "path": "0414-third-maximum-number/0414-third-maximum-number.cpp",
           "sha": "8af43f85e979544268e5de37133b9c5b020279c7",
           "lastSyncedAt": "2026-09-26T14:37:42.085Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "442",
+      "title": "Find All Duplicates in an Array",
+      "slug": "find-all-duplicates-in-an-array",
+      "problemName": "0442-find-all-duplicates-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+      "folderPath": "0442-find-all-duplicates-in-an-array/",
+      "readmePath": "0442-find-all-duplicates-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0442-find-all-duplicates-in-an-array.cpp",
+          "path": "0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.cpp",
+          "sha": "0b9b7bcce5967bba0b396caa0cb62d47a52bfa7d",
+          "lastSyncedAt": "2026-09-26T14:38:27.610Z"
         }
       ]
     },
