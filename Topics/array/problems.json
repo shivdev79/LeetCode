@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array"
+  },
+  "updatedAt": "2026-09-26T14:05:13.126Z",
+  "problems": [
+    {
+      "frontendId": "416",
+      "title": "Partition Equal Subset Sum",
+      "slug": "partition-equal-subset-sum",
+      "problemName": "0416-partition-equal-subset-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "folderPath": "0416-partition-equal-subset-sum/",
+      "readmePath": "0416-partition-equal-subset-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0416-partition-equal-subset-sum.cpp",
+          "path": "0416-partition-equal-subset-sum/0416-partition-equal-subset-sum.cpp",
+          "sha": "97f776ed30e4e9d50b1dda336096fcf4851ea4d5",
+          "lastSyncedAt": "2026-09-26T14:05:13.126Z"
+        }
+      ]
+    }
+  ]
+}
