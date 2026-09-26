@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-26T14:26:56.715Z",
+  "updatedAt": "2026-09-26T14:40:12.202Z",
   "problems": [
     {
       "frontendId": "3",
@@ -163,6 +163,26 @@
           "path": "1888-minimum-number-of-flips-to-make-the-binary-string-alternating/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.cpp",
           "sha": "f4cc5400c96626fcbeb8a375fc0aac12876737c6",
           "lastSyncedAt": "2026-09-26T14:19:25.113Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2962",
+      "title": "Count Subarrays Where Max Element Appears at Least K Times",
+      "slug": "count-subarrays-where-max-element-appears-at-least-k-times",
+      "problemName": "2962-count-subarrays-where-max-element-appears-at-least-k-times",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/",
+      "folderPath": "2962-count-subarrays-where-max-element-appears-at-least-k-times/",
+      "readmePath": "2962-count-subarrays-where-max-element-appears-at-least-k-times/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp",
+          "path": "2962-count-subarrays-where-max-element-appears-at-least-k-times/2962-count-subarrays-where-max-element-appears-at-least-k-times.cpp",
+          "sha": "296b90824eaf7ceb51bb8ea7aede5fb6c6ae4df3",
+          "lastSyncedAt": "2026-09-26T14:40:12.202Z"
         }
       ]
     }
