@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-26T14:42:54.543Z",
+  "updatedAt": "2026-09-26T14:44:26.882Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1023,6 +1023,26 @@
           "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.cpp",
           "sha": "0f23c4a40920104960beb286bbb675703318381c",
           "lastSyncedAt": "2026-09-26T14:05:59.005Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3272",
+      "title": "Find the Count of Good Integers",
+      "slug": "find-the-count-of-good-integers",
+      "problemName": "3272-find-the-count-of-good-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-count-of-good-integers/",
+      "folderPath": "3272-find-the-count-of-good-integers/",
+      "readmePath": "3272-find-the-count-of-good-integers/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3272-find-the-count-of-good-integers.cpp",
+          "path": "3272-find-the-count-of-good-integers/3272-find-the-count-of-good-integers.cpp",
+          "sha": "101a2f86000bbb607ebd2648e007a66ea2b9beba",
+          "lastSyncedAt": "2026-09-26T14:44:26.882Z"
         }
       ]
     },
