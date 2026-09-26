@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:11:41.498Z",
+  "updatedAt": "2026-09-26T14:12:01.447Z",
   "problems": [
     {
       "frontendId": "11",
@@ -563,6 +563,26 @@
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.cpp",
           "sha": "4a9d4c8105a13e38902ea3a5fcfcc1d0f9af2526",
           "lastSyncedAt": "2026-09-26T14:11:04.449Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "problemName": "3005-count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-maximum-frequency/",
+      "folderPath": "3005-count-elements-with-maximum-frequency/",
+      "readmePath": "3005-count-elements-with-maximum-frequency/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3005-count-elements-with-maximum-frequency.cpp",
+          "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.cpp",
+          "sha": "b94f09dd8d93ff1b41c3c3a10abff5359b206841",
+          "lastSyncedAt": "2026-09-26T14:12:01.447Z"
         }
       ]
     },
