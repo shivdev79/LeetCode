@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-26T14:41:00.725Z",
+  "updatedAt": "2026-09-26T14:41:07.568Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2123,6 +2123,26 @@
           "path": "2643-row-with-maximum-ones/2643-row-with-maximum-ones.cpp",
           "sha": "d9db29e9e135afa09d1649ab2bed8fbfee10c4bf",
           "lastSyncedAt": "2026-09-26T14:41:00.725Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2845",
+      "title": "Count of Interesting Subarrays",
+      "slug": "count-of-interesting-subarrays",
+      "problemName": "2845-count-of-interesting-subarrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-interesting-subarrays/",
+      "folderPath": "2845-count-of-interesting-subarrays/",
+      "readmePath": "2845-count-of-interesting-subarrays/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2845-count-of-interesting-subarrays.cpp",
+          "path": "2845-count-of-interesting-subarrays/2845-count-of-interesting-subarrays.cpp",
+          "sha": "6f345fe1c68e5e4638b985ed9b7a3f900da8cae5",
+          "lastSyncedAt": "2026-09-26T14:41:07.568Z"
         }
       ]
     },
