@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-09-26T14:57:13.323Z",
+  "updatedAt": "2026-09-26T15:05:19.017Z",
   "problems": [
     {
       "frontendId": "42",
@@ -102,7 +102,7 @@
           "filename": "1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.cpp",
           "sha": "d7681643772e6bf71c8b69ea9649d0d7547752d5",
-          "lastSyncedAt": "2026-09-26T14:18:38.996Z"
+          "lastSyncedAt": "2026-09-26T15:05:19.017Z"
         }
       ]
     },
