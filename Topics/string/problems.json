@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-26T15:26:52.732Z",
+  "updatedAt": "2026-09-27T14:41:30.346Z",
   "problems": [
     {
       "frontendId": "3",
@@ -523,6 +523,26 @@
           "path": "1108-defanging-an-ip-address/1108-defanging-an-ip-address.cpp",
           "sha": "dfa387b6201bbe288c12eec40a78186d61ca7e06",
           "lastSyncedAt": "2026-09-26T15:17:01.964Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "1143-longest-common-subsequence/",
+      "readmePath": "1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1143-longest-common-subsequence.cpp",
+          "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.cpp",
+          "sha": "08f023eae083d1b2fd8bdf62b6089b9e23211179",
+          "lastSyncedAt": "2026-09-27T14:41:30.346Z"
         }
       ]
     },
