@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 296 | 138 | 137 | 21 |
+| 298 | 138 | 138 | 22 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 13 days | 146 |
+| 1 days | 13 days | 148 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-29 | 3 |
-| 2026-08-30 | 8 |
 | 2026-08-31 | 12 |
 | 2026-09-01 | 4 |
 | 2026-09-03 | 3 |
@@ -29,18 +27,20 @@ Contains topicwise list of solved problems.
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-26 | 1 |
+| 2026-09-27 | 1 |
+| 2026-10-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 156 | 53% |
+| Array | 156 | 52% |
 | Hash Table | 63 | 21% |
-| Tree | 52 | 18% |
+| Tree | 52 | 17% |
 | Binary Tree | 50 | 17% |
 | Depth-First Search | 45 | 15% |
+| String | 44 | 15% |
 | Two Pointers | 44 | 15% |
-| String | 42 | 14% |
 | Math | 36 | 12% |
 | Sorting | 35 | 12% |
 | Binary Search | 33 | 11% |
@@ -74,7 +74,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 12 |
 | [DP on Trees](Topics/dp-on-trees/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 27 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 29 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 2 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -86,6 +86,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 10 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 1 |
 | [Linked List](Topics/linked-list/) | 28 |
+| [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Lowest Common Ancestor](Topics/lowest-common-ancestor/) | 3 |
 | [Math](Topics/math/) | 36 |
 | [Matrix](Topics/matrix/) | 17 |
@@ -112,7 +113,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 14 |
 | [Sorting](Topics/sorting/) | 35 |
 | [Stack](Topics/stack/) | 22 |
-| [String](Topics/string/) | 42 |
+| [String](Topics/string/) | 44 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
