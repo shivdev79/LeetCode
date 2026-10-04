@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 298 | 138 | 138 | 22 |
+| 299 | 139 | 138 | 22 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 13 days | 148 |
+| 1 days | 13 days | 149 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-31 | 12 |
 | 2026-09-01 | 4 |
 | 2026-09-03 | 3 |
 | 2026-09-04 | 1 |
@@ -29,12 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-09-26 | 1 |
 | 2026-09-27 | 1 |
 | 2026-10-02 | 1 |
+| 2026-10-04 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 156 | 52% |
+| Array | 157 | 53% |
 | Hash Table | 63 | 21% |
 | Tree | 52 | 17% |
 | Binary Tree | 50 | 17% |
@@ -51,7 +51,7 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [0-1 Knapsack](Topics/0-1-knapsack/) | 1 |
 | [Algorithm X](Topics/algorithm-x/) | 1 |
-| [Array](Topics/array/) | 156 |
+| [Array](Topics/array/) | 157 |
 | [Backtracking](Topics/backtracking/) | 18 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -100,7 +100,7 @@ Contains topicwise list of solved problems.
 | [Ordered Set](Topics/ordered-set/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 2 |
 | [Polygons](Topics/polygons/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 11 |
+| [Prefix Sum](Topics/prefix-sum/) | 12 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 6 |
 | [Quickselect](Topics/quickselect/) | 1 |
