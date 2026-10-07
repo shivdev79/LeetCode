@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-07T15:26:48.192Z",
+  "updatedAt": "2026-10-07T15:29:11.397Z",
   "problems": [
     {
       "frontendId": "22",
@@ -202,7 +202,7 @@
           "filename": "0132-palindrome-partitioning-ii.cpp",
           "path": "0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.cpp",
           "sha": "427c2cd0e882677ab207cd7aa3fc648811784ec9",
-          "lastSyncedAt": "2026-10-07T15:26:48.192Z"
+          "lastSyncedAt": "2026-10-07T15:29:11.397Z"
         }
       ]
     },
