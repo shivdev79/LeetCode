@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 299 | 139 | 138 | 22 |
+| 300 | 139 | 138 | 23 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 13 days | 149 |
+| 1 days | 13 days | 150 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-01 | 4 |
 | 2026-09-03 | 3 |
 | 2026-09-04 | 1 |
 | 2026-09-07 | 1 |
@@ -29,17 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 1 |
 | 2026-10-02 | 1 |
 | 2026-10-04 | 1 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 157 | 53% |
+| Array | 157 | 52% |
 | Hash Table | 63 | 21% |
 | Tree | 52 | 17% |
 | Binary Tree | 50 | 17% |
 | Depth-First Search | 45 | 15% |
-| String | 44 | 15% |
+| String | 45 | 15% |
 | Two Pointers | 44 | 15% |
 | Math | 36 | 12% |
 | Sorting | 35 | 12% |
@@ -74,7 +74,7 @@ Contains topicwise list of solved problems.
 | [Directed Acyclic Graph](Topics/directed-acyclic-graph/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 12 |
 | [DP on Trees](Topics/dp-on-trees/) | 5 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 29 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 30 |
 | [Enumeration](Topics/enumeration/) | 4 |
 | [Fermat's Little Theorem](Topics/fermats-little-theorem/) | 2 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
@@ -113,7 +113,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 14 |
 | [Sorting](Topics/sorting/) | 35 |
 | [Stack](Topics/stack/) | 22 |
-| [String](Topics/string/) | 44 |
+| [String](Topics/string/) | 45 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 2 |
