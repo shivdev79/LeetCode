@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-10-04T21:34:44.914Z",
+  "updatedAt": "2026-11-21T11:57:07.846Z",
   "problems": [
     {
       "frontendId": "1",
@@ -22,7 +23,7 @@
           "filename": "0001-two-sum.cpp",
           "path": "0001-two-sum/0001-two-sum.cpp",
           "sha": "e9782bdab68ea3daf7bdd2086743628913a4f0ec",
-          "lastSyncedAt": "2026-09-26T15:21:05.749Z"
+          "lastSyncedAt": "2026-11-21T11:57:07.846Z"
         }
       ]
     },
