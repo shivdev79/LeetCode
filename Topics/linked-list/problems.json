@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "linked-list",
-    "name": "Linked List"
+    "name": "Linked List",
+    "tagId": "7"
   },
-  "updatedAt": "2026-09-26T15:18:54.145Z",
+  "updatedAt": "2026-11-22T07:39:12.976Z",
   "problems": [
     {
       "frontendId": "2",
@@ -362,7 +363,7 @@
           "filename": "0206-reverse-linked-list.cpp",
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.cpp",
           "sha": "a085d6fc79b144ca0cc91a5c3b6c8d1b28256632",
-          "lastSyncedAt": "2026-09-26T15:18:44.833Z"
+          "lastSyncedAt": "2026-11-22T07:39:12.976Z"
         }
       ]
     },
